@@ -10,49 +10,49 @@ FS2 = ['L','M','H']
 lab1 = dict([(i,j) for j,i in enumerate(FS1)])
 lab2 = dict([(i,j) for i,j in enumerate(FS2)])
 
-F1L = fuzz.gaussmf(X,0.07,0.033)
-F1M = fuzz.gaussmf(X,0.17,0.02)
-F1H = fuzz.gaussmf(X,0.6,0.15)
+F1L = fuzz.trapmf(X,[-1, -1, 0, 0.2])
+F1M = fuzz.trapmf(X,[0.05, 0.18, 0.4, 0.6])
+F1H = fuzz.trapmf(X,[0.4, 0.6, 1, 1.1])
 
-F2L = fuzz.gaussmf(X,0.15,0.07)
-F2M = fuzz.gaussmf(X,0.45,0.08)
-F2H = fuzz.gaussmf(X,0.8,0.07)
+F2L = fuzz.trapmf(X,[-1, -1, 0, 0.2])
+F2M = fuzz.trapmf(X,[0.05, 0.18, 0.4, 0.6])
+F2H = fuzz.trapmf(X,[0.4, 0.6, 1, 1.1])
 
-F3L = fuzz.gaussmf(X,0.15,0.06)
-F3M = fuzz.gaussmf(X,0.5,0.075)
-F3H = fuzz.gaussmf(X,0.82,0.055)
+F3L = fuzz.trapmf(X,[-1, -1, 0, 0.2])
+F3M = fuzz.trapmf(X,[0.05, 0.18, 0.4, 0.6])
+F3H = fuzz.trapmf(X,[0.4, 0.6, 1, 1.1])
 
-F4L = fuzz.gaussmf(X,0.15,0.07)
-F4M = fuzz.gaussmf(X,0.5,0.06)
-F4H = fuzz.gaussmf(X,0.82,0.055)
+F4L = fuzz.trapmf(X,[-1, -1, 0, 0.2])
+F4M = fuzz.trapmf(X,[0.05, 0.18, 0.4, 0.6])
+F4H = fuzz.trapmf(X,[0.4, 0.6, 1, 1.1])
 
-F5L = fuzz.gaussmf(X,0.1,0.033)
-F5M = fuzz.gaussmf(X,0.82,0.07)
-F5H = fuzz.gaussmf(X,0.4,0.1)
+F5L = fuzz.trapmf(X,[-1, -1, 0, 0.2])
+F5M = fuzz.trapmf(X,[0.05, 0.18, 0.4, 0.6])
+F5H = fuzz.trapmf(X,[0.4, 0.6, 1, 1.1])
 
-F6L = fuzz.gaussmf(X,0.05,0.029)
-F6M = fuzz.gaussmf(X,0.15,0.02)
-F6H = fuzz.gaussmf(X,0.6,0.14)
+F6L = fuzz.trapmf(X,[-1, -1, 0, 0.2])
+F6M = fuzz.trapmf(X,[0.05, 0.18, 0.4, 0.6])
+F6H = fuzz.trapmf(X,[0.4, 0.6, 1, 1.1])
 
-F7L = fuzz.gaussmf(X,0.17,0.07)
-F7M = fuzz.gaussmf(X,0.5,0.065)
-F7H = fuzz.gaussmf(X,0.82,0.08)
+F7L = fuzz.trapmf(X,[-1, -1, 0, 0.2])
+F7M = fuzz.trapmf(X,[0.05, 0.18, 0.4, 0.6])
+F7H = fuzz.trapmf(X,[0.4, 0.6, 1, 1.1])
 
-F8L = fuzz.gaussmf(X,0.025,0.014)
-F8M = fuzz.gaussmf(X,0.08,0.01)
-F8H = fuzz.gaussmf(X,0.55,0.145)
+F8L = fuzz.trapmf(X,[-1, -1, 0, 0.2])
+F8M = fuzz.trapmf(X,[0.05, 0.18, 0.4, 0.6])
+F8H = fuzz.trapmf(X,[0.4, 0.6, 1, 1.1])
 
 
 NS = open('Ns.txt').read().split()
 NS = np.int32(NS)
 
-Unimportant = fuzz.trimf(X,[-0.0001,0.2,0.4])
-Average     = fuzz.trimf(X,[0.3,0.5,0.7])
-Important   = fuzz.trimf(X,[0.6,0.8,1.0001])
+Unimportant = fuzz.trapmf(X,[-1, -1, 0, 0.2])
+Average     = fuzz.trapmf(X,[0,0.19,0.4, 0.55])
+Important   = fuzz.trapmf(X,[0.4,0.6,1, 1.1])
 
-tri = dict([('unimportant',[0,  0.2,0.4]),
-            ('average',    [0.3,0.5,0.7]),
-            ('important',  [0.6,0.8,1])])
+tri = dict([('unimportant',[0,  0, 0,0.2]),
+            ('average',    [0,0.19,0.4, 0.55]),
+            ('important',  [0.4,0.6,1, 1])])
 
 frules = [i.strip().split() for i in open('frules.txt').readlines()]
 frules = [(i[:-1],i[-1].lower()) for i in frules]
@@ -86,7 +86,7 @@ for enum,file in enumerate(os.listdir(path_inp1)):
         FS,FV = ['','',''],[0,0,0]
 
         for R,fs in frules:
-            a,m,b = tri[fs]
+            a,m,be,b = tri[fs]
 
             c = []
             for j,r in enumerate(R):
