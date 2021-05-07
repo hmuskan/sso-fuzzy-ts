@@ -54,6 +54,8 @@ tri = dict([('unimportant',[0,  0, 0,0.2]),
             ('average',    [0,0.19,0.4, 0.55]),
             ('important',  [0.4,0.6,1, 1])])
 
+
+# opening frules files and making it a list of tuples of the form ([l, l, ...], important)
 frules = [i.strip().split() for i in open('frules.txt').readlines()]
 frules = [(i[:-1],i[-1].lower()) for i in frules]
 
@@ -71,6 +73,7 @@ for enum,file in enumerate(os.listdir(path_inp1)):
 
     f = open(path_inp1+file).read()
 
+# data will contain all weighted score as a matrix, label is a list of all sentence labels
     data,label = [],[]
     for row in f.splitlines():
         temp = []

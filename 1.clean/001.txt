@@ -1,109 +1,169 @@
-title   | west yorkshir polic search six hous leed today connect london bomb
-sent_01 | hous search burley beeston holbeck area
-sent_02 | properti search dewsburi eight mile citi centr
-sent_03 | raid began 6 30am bst morn warrant issu terror act 2000
-sent_04 | polic still attend one properti describ search signific intellig led
-sent_05 | access one hous gain use robot-deploy control explos hous enter arm polic
-sent_06 | london metropolitan polic commission sir ian blair said oper directli connect outrag thursday
-sent_07 | signific amount explos recov burley properti
-sent_08 | follow discoveri explos militari bomb dispos expert sent scene
-sent_09 | around 600 peopl evacu surround area
-sent_010 | temporari food shelter provid local council kirkstal leisur centr mile away
-sent_11 | profil suspect juli 7 2005 bomb london releas british nation
-sent_12 | four alleg suicid bomber shahzad tanweer 22 attend leed metropolitan univers studi sport scienc hasib hussain 18 leed moham sidiqu khan 30 born pakistan dewsburi lindsey germain piccadilli line train jamaican-born resid aylesburi
-sent_13 | shahzad hasib report miss famili previou week
-sent_14 | suspect caught surveil camera arriv king cross station 08 30 bst carri militari style back pack day blast
-sent_15 | suspect seen go separ way twenti minut explos
-sent_16 | suspect delay fourth bomb aboard double-deck bu intend travel northern line suspend earlier morn
-sent_17 | alleg accomplic magdi asdi el-nashar renter hous explos found egyptian-born biochemistri lectur disappear ejaz fiaz also name eliaz fiaz possibl co-conspir earli thirti beeston leed initi thought suicid bomber piccadilli line train unnam co-conspir al qaeda oper believ bomb-mak cell organ describ pakistani 30 enter britain port time june 2005 left countri 6 juli mustafa setmariam nasar suspect planner also believ organ 11 march 2004 madrid bomb
-sent_18 | metropolitan polic releas two photograph 15 30 today result intens investig london bomb attack last week
-sent_19 | photograph show hassib hussain believ bomber london bu 30
-sent_20 | first photograph passport photo hasib hussain second show crop cctv imag luton station 7 20 day attack
-sent_21 | metropolitan polic claim statement believ 18 year old travel west yorkshir compani three men
-sent_22 | seen luton station 07 20 morn bomb
-sent_23 | polic tri gain eyewit inform ask public call telephon number 0800 789321 44 800 789321 outsid uk saw hussain last thursday around king cross area
-sent_24 | metropolitan polic made request addit inform hasib whearabout left luton
-sent_25 | need establish movement 8 26am king cross 9 47am 30 bu explos occur see man king cross alon other know rout took station see get 30 bu
-sent_26 | london bomb suspect hussain osman also known hamdi issac arriv london arrest follow extradit itali
-sent_27 | allegedli involv second set attack london juli target citi public transport infrastructur osman arrest rome italian polic juli 29 one week fail attack
-sent_28 | septemb 13 final appeal extradit reject italian court despit lawyer protest could get fair trial uk
-sent_29 | osman accus plant fail bomb shepherd bush underground station
-sent_30 | flight subsequ attack prove futil phone record led polic rome raid brother apart captur
-sent_31 | pend extradit held rebibbia jail rome high-secur facil outskirt citi
-sent_32 | left jail late thursday ethiopian-born terror suspect flew itali 12pm local time accompani offic metropolitan polic
-sent_33 | fli charter privat jet osman escort land raf northolt osman charg arriv
-sent_34 | expect put trial old bailey london alongsid suspect involv fail attack
-sent_35 | survivor london bomb urg british public write mp set onlin petit call independ public inquiri attack
-sent_36 | 52 peopl kill hundr injur juli 7th 2005 four suicid bomber blew three separ london underground train public bu
-sent_37 | earlier week british govern reject call public inquiri argu investig would expens take long distract effort combat terror
-sent_38 | instead govern offer put togeth narr event
-sent_39 | survivor attack argu fulli comprehens investig could teach valuabl lesson may help reduc likelihood futur attack improv respons capabl emerg servic
-sent_40 | survivor rachel north pseudonym activ organis support group fellow victim anger govern altern propos narr
-sent_41 | write weblog start help other come term aftermath juli 7th ms north say even dont like question dont like answer think know answer alreadi mr blair us pay cost cost answer question make squirm bad run risk train buse street day dare presum know question dare presum answer narr happen children placat stori know happen want know
-sent_42 | ms north also quot number survivor constantli remind worst peac time bomb london ever seen someth bad inquiri peopl die famili lost someon love hundr still suffer cant put price appar govern fiona
-sent_43 | noth els enquiri would make sure lesson learnt case god forbid anyth like happen thought plansin place emerg whilst emerg servic fantast job day stunningli underwhelm support offer victim sinc paulin
-sent_44 | anonym survivor write yorkshir lass websit say watch al-qaeda video declar jihad uk haunt familiar voic voic accent dialect man recruit train far countri bare heard man recruit train live 20 minut mother home born rais word spoke word similar heard mani time disillus young men studi level word hatr overheard work support worker local colleg word student educ someon follow action opinion detriment other question need ask prevent put place need done public inquiri peac mind told look justic wrong place way right howev want sort justic manner peac mind question answer resolut made dont want other go hundr commut summer day
-sent_45 | rel dead also critic quot bbc websit saba mozakka daughter behnaz mozakka die piccadilli line explos said famili campaign full public inquiri narr event satisfi anybodi someth go away
-sent_46 | mari fatayi-william whose son anthoni kill attack told bbc ask realli noth hide shi away public inquiri real way truli get thing discuss see happen lesson learnt whether better prepar 7 juli son kill never go come back nobodi go tell inquiri wast polic time
-sent_47 | survivor petit far gather 100 signatur british govern given respons yet
-sent_48 | london commemor one year anniversari terrorist attack transport network claim 52 live
-sent_49 | day last year seri coordin suicid bomb struck london public transport system morn rush hour three bomb explod within 50 second three london underground train
-sent_50 | fourth bomb explod bu nearli hour later tavistock squar
-sent_51 | fifty-two peopl kill attack four bomber 700 injur deadliest singl act terror unit kingdom sinc lockerbi bomb 1988 deadliest bomb london sinc second world war
-sent_52 | four suicid bomber uk resid al qaeda claim respons attack polic unsur exact role attack
-sent_53 | flower laid mayor ken livingston tessa jowel secretari state cultur near king cross station 8 50 bst 0750 utc mark time place first attack piccadilli line train beneath station
-sent_54 | prime minist toni blair attend privat memori london fire brigad headquart said time countri unit across race religion divid stand solidar suffer much sympathi defenc valu share recal effort emerg public servic personnel public larg aftermath attack
-sent_55 | tribut also paid tavistock squar bu attack 9 47 bst day one year ago
-sent_56 | bell st paul cathedr toll exact time bomb
-sent_57 | two minut silenc held across uk noon bst 1100 utc includ wimbledon tenni tournament
-sent_58 | mani school offic shop town centr across countri two minut observ
-sent_59 | event plan around london later day
-sent_60 | special programm broadcast british televis mark occas
-sent_61 | yesterday video one bomber shehzad tanweer broadcast al-jazeera televis channel claim link attack al-qaeda
-sent_62 | five men found guilti monday part unsuccess plot carri bomb uk
-sent_63 | five arrest 2004 polic raid name oper crevic
-sent_64 | two men arrest charg time found guilti
-sent_65 | trial old bailey crimin court london took place past year carri littl detail releas
-sent_66 | reveal guilti plan larg fertilis bomb nightclub ga power plant shop mall
-sent_67 | five found guilti plot caus explos like endang life jail life sentenc
-sent_68 | five convict omar khyam 25 wahe mahmood 34 jawad akbar 23 crawley west sussex salahuddin amin 31 luton bedfordshir anthoni garcia 24 barkingsid east london
-sent_69 | men british citizen two men found guilti nabeel hussain shujah mahmood
-sent_70 | summat judg sir michael astil criticis guilti men plot countri betray countri given everi opportun said judg astil may never releas foregon conclus
-sent_71 | also reveal fertilis bomb conspir met two london subway bomber opposit parti call independ inquiri 7 juli link
-sent_72 | detail 7 juli link brought front juri trial fertilis bomb planner
-sent_73 | canadian man momin khawaja arrest 2004 held canadian jail ever sinc
-sent_74 | accus co-conspir five british plotter allegedli develop bomb deton
-sent_75 | khawaja consid un-indict co-conspir relat british case
-sent_76 | khawaja first person held 2001 anti-terror act canada crimin code put place canada liber govern
-sent_77 | khawaja charg seven offenc new law
-sent_78 | he custodi three year face charg said lawrenc greenspon khawaja lawyer
-sent_79 | british juri obvious great deal difficulti come decis greenspon told ctv news
-sent_80 | even two seven acquit
-sent_81 | court unit kingdom shown footag bomber attack london juli 7 2005
-sent_82 | juri told footag taken cctv camera taken nine day bomb
-sent_83 | video shown part trial wahe ali moham shakil sadeer saleem charg conspiraci caus explos alleg involv prepar bomb
-sent_84 | three juli 7 bomber moham siddiqu khan shezhad tanweer jermain lindsay shown video although bomber hasib hussain seen video
-sent_85 | film taken camera locat luton railway station
-sent_86 | russel squar bomb imag franci tyer
-sent_87 | footag shown kingston crown court describ teletext chill
-sent_88 | last month video show mohammad siddiqu khan say goodby child shown court
-sent_89 | video explain reason action
-sent_90 | im im sake islam know materialist worldli benefit said talk six month old daughter
-sent_91 | defend trial previous accus help find locat bomb
-sent_92 | juli 7 bomb seri coordin bomb struck london morn juli 7 2005
-sent_93 | 52 peopl die approxim 700 injur result bomb
-sent_94 | comment defend neil flewitt qc claim case defend associ share belief object london bomber
-sent_95 | perman memori victim juli 7 2005 london bomb unveil hyde park london england
-sent_96 | today fourth anniversari bomb 52 peopl kill suicid bomber board three underground train bu
-sent_97 | 52 stainless steel column stand 3 5m 11 5ft tall inaugur presenc princ charl duchess cornwal camilla bowl prime minist gordon brown london mayor bori johnson minist london tessa jowel
-sent_98 | column repres uniqu person uniqu grief accord minist london
-sent_99 | jowel continu one cast shadow one stand tall proud one individu way absorb reflect light
-sent_100 | 1 4 tonn stainless steel plaqu name peopl kill also unveil
-sent_101 | princ charl laid wreath behalf nation duchess cornwal left floral tribut famili victim
-sent_102 | famili laid rose met princ duchess
-sent_103 | polic scotland yard discov suicid bomber mount attack london juli 7th rehears plan nine day earlier
-sent_104 | part formal investig attack detect studi thousand hour cctv footag
-sent_105 | imag show three bomber enter luton station travel king cross station also pictur
-sent_106 | polic abl trace movement recov ticket receipt hous connect bomber indic rout trip
-sent_107 | scotland yard say practic run show terrorist methodolog 3 000 wit statement gather 80 000 cctv tape analys investig expect carri mani month come
-sent_108 | terror timet sidiqu khan tanweer meet lindsay luton station 8 10 three buy ticket catch train king cross men arriv king cross 8 55 seen baker steet midday bomber leav king cross 12 50 p arriv back luton 1 40 p inform connect london bomb pleas call anti-terrorist hotlin 0800 789321
+title   | hurrican gilbert swept toward dominican republ sunday civil defens alert heavili popul south coast prepar high wind heavi rain high sea
+sent_01 | storm approach southeast sustain wind 75 mph gust 92 mph
+sent_02 | need alarm civil defens director eugenio cabral said televis alert shortli midnight saturday
+sent_03 | cabral said resid provinc barahona close follow gilbert movement
+sent_04 | estim 100 000 peopl live provinc includ 70 000 citi barahona 125 mile west santo domingo
+sent_05 | tropic storm gilbert form eastern caribbean strengthen hurrican saturday night
+sent_06 | nation hurrican center miami report posit 2 sunday latitud 16 1 north longitud 67 5 west 140 mile south ponc puerto rico 200 mile southeast santo domingo
+sent_07 | nation weather servic san juan puerto rico said gilbert move westward 15 mph broad area cloudi heavi weather rotat around center storm
+sent_08 | weather servic issu flash flood watch puerto rico virgin island least 6 p sunday
+sent_09 | strong wind associ gilbert brought coastal flood strong southeast wind 12 feet feet puerto rico south coast
+sent_010 | report casualti
+sent_11 | san juan north coast heavi rain gust saturday subsid night
+sent_12 | saturday hurrican florenc downgrad tropic storm remnant push inland u gulf coast
+sent_13 | resid return home happi find littl damag 80 mph wind sheet rain
+sent_14 | florenc sixth name storm 1988 atlant storm season second hurrican
+sent_15 | first debbi reach minim hurrican strength briefli hit mexican coast last month
+sent_16 | hurrican gilbert pack 110 mph wind torrenti rain move capit citi today skirt puerto rico haiti dominican republ
+sent_17 | immedi report casualti
+sent_18 | telephon commun affect
+sent_19 | right actual move jamaica said bob sheet director nation hurrican center miami
+sent_20 | weve alreadi report 110 mph wind eastern tip
+sent_21 | look like eye go move lengthwis across island theyr go bear full brunt power hurrican sheet said
+sent_22 | forecast say gilbert expect lash jamaica throughout day track later strike cayman island small british depend northwest jamaica
+sent_23 | meanwhil havana radio report today 25 000 peopl evacu guantanamo provinc cuba southeastern coast strong wind fan gilbert began brush island
+sent_24 | jamaica-bound flight cancel miami intern airport flight grand cayman main island three-island chain arriv pack frighten travel
+sent_25 | peopl run around main lobbi hotel grand cayman like chicken head cut said one vacation return home california miami
+sent_26 | hurrican warn post cayman island cuba haiti
+sent_27 | warn discontinu dominican republ
+sent_28 | interest western caribbean continu monitor progress danger hurrican servic said ad littl chang strength expect next sever hour hurrican move westward jamaica
+sent_29 | associ press caribbean headquart san juan puerto rico unabl get phone call kingston high wind heavi rain preced storm drench capit overnight toppl tree caus local flood litter street branch
+sent_30 | jamaican stay home board window prepar hurrican
+sent_31 | compani broadcast appeal technician electrician report work
+sent_32 | weather bureau predict gilbert center 140 mile southeast kingston dawn would pass south kingston hit southern parish clarendon
+sent_33 | flash flood warn issu parish portland northeast st mari north
+sent_34 | north coast tourist region montego bay west ocho rio east far southern impact zone separ mountain expect receiv heavi rain
+sent_35 | offici urg resid higher risk area along south coast seek higher ground
+sent_36 | certainli one larger system weve seen caribbean long time said hal gerrish forecast nation hurrican center
+sent_37 | forecast center said eye gilbert 140 mile southeast kingston dawn today
+sent_38 | maximum sustain wind near 110 mph tropical-storm forc wind extend 250 mile north 100 mile south
+sent_39 | prime minist edward seaga jamaica alert govern agenc say sunday night hurrican gilbert appear real threat everyon follow instruct hurrican precaut issu offic disast prepared order minim danger
+sent_40 | forecast said hurrican gain strength pass ocean dump 5 10 inch rain dominican republ haiti share island hispaniola
+sent_41 | know within 72 hour whether go major threat unit state said martin nelson anoth meteorologist center
+sent_42 | move 17 mph west normal hurrican take northward turn pass central cuba
+sent_43 | cuba offici prensa latina news agenc said state alert declar midday cuban provinc guantanamo holguin santiago de cuba granma
+sent_44 | report havana receiv mexico citi prensa latina said civil defens offici broadcast bulletin nation radio televis recommend emerg measur provid inform storm
+sent_45 | heavi rain stiff wind down power line caus flood dominican republ sunday night hurrican center pass south barahona peninsula less 100 mile neighbor haiti
+sent_46 | storm rip roof hous flood coastal area southwestern puerto rico reach hurrican strength island southeast saturday night
+sent_47 | flight cancel sunday dominican republ civil defens director eugenio cabral report flood part capit santo domingo power outag southern area
+sent_48 | hurrican gilbert slam kingston monday torrenti rain 115 mph wind rip roof home build uproot tree down power line
+sent_49 | seriou injuri immedi report citi 750 000 peopl hit full forc hurrican around noon
+sent_50 | half hour hurrican lash citi tear branch tree blow fenc whip paper air
+sent_51 | nation weather servic report heavi damag kingston airport aircraft park field
+sent_52 | first shock let eye storm move across citi
+sent_53 | sky brighten wind die peopl wait hour second blow hurrican arriv
+sent_54 | jamaica-bound flight cancel miami intern airport
+sent_55 | flight cayman island reportedli next path hurrican arriv miami pack travel cut short vacat
+sent_56 | peopl run around main lobbi hotel grand cayman island like chicken head cut said one man
+sent_57 | nation weather servic report said hurrican move west 17 mph maximum sustain wind 115 mph
+sent_58 | said jamaica would receiv 10 inch rain would caus flash flood mud slide
+sent_59 | right actual move jamaica said bob sheet director nation hurrican center miami
+sent_60 | look like eye go move lengthwis across island theyr go bear full brunt power hurrican said
+sent_61 | gilbert reach jamaica skirt southern puerto rico haiti dominican republ
+sent_62 | hurrican warn issu monday south coast cuba east camaguey cayman island haiti warn discontinu dominican republ
+sent_63 | high wind heavi rain preced storm drench kingston overnight toppl tree caus local flood litter street branch
+sent_64 | jamaica 2 3 million peopl stay home board window prepar hurrican
+sent_65 | popular north coast resort area side mountain expect receiv heavi rain much damag hurrican south coast offici urg resid seek higher ground
+sent_66 | havana radio meanwhil report monday 25 000 peopl evacu coastal area guantanamo provinc nation southeastern coast gilbert wind rain began brush island
+sent_67 | washington navi report base guantanamo bay cuba roosevelt road puerto rico taken variou precautionari step appear safe brunt hurrican
+sent_68 | lt ken ross spokesman said navi station guantanamo report 2 30 p edt brunt storm appear pass southeastern cuba
+sent_69 | report maximum wind 25 knot gust 50 knot said ross
+sent_70 | report injuri damag
+sent_71 | spokesman said earlier day guantanamo move condit two mean electr power usag cut back essenti use non-essenti personnel sent barrack
+sent_72 | storm also skirt puerto rico without caus damag militari facil ross said
+sent_73 | sheet said gilbert expect next sweep cayman island westward track two three day veer northwest southern gulf mexico
+sent_74 | resid neighbor cayman british depend northwest urg rush preparatori action
+sent_75 | nation weather servic warn cayman could expect high water larg wave may undermin build along beach
+sent_76 | interest western caribbean continu monitor progress danger hurrican servic advis
+sent_77 | forecast hal gerrish sunday describ gilbert certainli one larger system weve seen caribbean long time
+sent_78 | hurrican gilbert one strongest storm ever slam yucatan peninsula wednesday level thatch home tore roof uproot tree cut caribbean resort cancun cozumel
+sent_79 | looter roam street cancun steal store whose window blown away
+sent_80 | huge wave batter beach resort thousand evacu
+sent_81 | despit intens onslaught ensu heavi flood offici report two minor injuri
+sent_82 | storm kill 19 peopl jamaica five dominican republ move west mexico
+sent_83 | prime minist edward seaga jamaica said wednesday storm destroy estim 100 000 jamaica 500 000 home throttl island monday
+sent_84 | jamaican embassi report earlier 500 000 nation 2 3 million peopl homeless
+sent_85 | cancun amateur radio oper said oil tanker fleet govern oil monopoli pemex lazaro cardena run aground beach cancun hotel zone
+sent_86 | pemex offici howev said vessel secur
+sent_87 | armi offici mexico citi said 35 000 peopl evacu cancun cancun mayor jose sanchez zapata said 11 000 fled
+sent_88 | 120 000 peopl northeast yucatan coast evacu yucatan state govern said
+sent_89 | eye storm pass cozumel cancun howl wind clock 160 mph 8 edt
+sent_90 | wind bent toppl util pole uproot slum dwell
+sent_91 | ham radio oper around cancun said gilbert knock radio televis commun tower uproot tree blew roof build
+sent_92 | flood prevent offici reach hotel zone cancun relief effort way late wednesday
+sent_93 | shelter littl food water blanket power
+sent_94 | cant yet
+sent_95 | wind would blow away said armi offici citi hall declin give name
+sent_96 | band 25 30 youth roam street cancun wednesday loot store shatter window said alfredo moro sanchez investig coordin quintana roo state judici polic
+sent_97 | said ask armi troop halt loot none arriv late wednesday
+sent_98 | 150 tourist took refug cancun citi hall
+sent_99 | honeymoon sheila fournier long island said husband pete evacu villa playa hotel
+sent_100 | ocean-front view   wash away said
+sent_101 | offici check low-li area cancun strand resid
+sent_102 | heavi damag visibl humbl wood thatch home typic yucatan
+sent_103 | peopl want leav yesterday armi offici said
+sent_104 | someth new
+sent_105 | didnt know cyclon
+sent_106 | midnight edt gilbert center near latitud 21 5 north longitud 90 2 west approach north coast yucatan 60 mile east-northeast provinci capit merida nation hurrican center coral gabl fla said
+sent_107 | storm 550 mile southeast brownsvil texa center said statement
+sent_108 | gilbert move west-northwest 15 mph wind decreas 125 mph
+sent_109 | mexican nation weather servic report wind gust high 218 mph earlier wednesday sustain wind 179 mph
+sent_110 | earlier wednesday gilbert classifi categori 5 storm strongest ad deadliest type hurrican
+sent_111 | storm maximum sustain wind greater 155 mph caus catastroph damag
+sent_112 | wednesday night nation hurrican center downgrad categori 4 center director bob sheet said there question itll strengthen come yucatan peninsula get back open water
+sent_113 | gilbert move away yucatan peninsula wednesday night hurrican form doubl eye two concentr circl thunderstorm often characterist strong storm cross land move water
+sent_114 | one eye eight mile wide second 25 mile wide said hurrican center meteorologist jess moor
+sent_115 | one featur expect see hurrican move back water expect intensif said
+sent_116 | two categori 5 hurrican hit unit state   1935 storm kill 408 peopl florida hurrican camil devast mississippi coast 1969 kill 256 peopl
+sent_117 | oil compani evacu thousand worker rig gulf mexico
+sent_118 | peninsula port campech celestum progreso sinzal ucaltepen tel-chac cancun puerto morelo ciudad del carmen close govern news agenc notimex said
+sent_119 | airport region close
+sent_120 | sound wind outsid horribl said receptionist pablo torr cancun hotel carrillo storm approach
+sent_121 | nation hurrican center said hurrican watch effect texa coast brownsvil port arthur along coast northeast mexico tampico north
+sent_122 | mexico citi nation civil defens system said lost telephon contact cancun cozumel 8 edt
+sent_123 | public build cancun use shelter said cecila laval spokesman quintana roo state govern chetum 155 mile southeast cozumel
+sent_124 | jenni valdez u consular repres cancun said know mani tourist cancun govern figur estim 40 000 65 000 monthli visitor
+sent_125 | hurrican warn effect entir yucatan peninsula widespread evacu report
+sent_126 | wind destroy least 100 home slum valladolid town 45 000 100 mile cozumel alberto pol judici polic offic said telephon
+sent_127 | nation hurrican center said gilbert intens storm record term barometr pressur
+sent_128 | measur 26 31 inch break 26 35 inch record 1935 hurrican devast florida key
+sent_129 | that lowest pressur ever measur western hemispher said forecast mark zimmer
+sent_130 | sunday monday tuesday gilbert pound dominican republ jamaica cayman island
+sent_131 | seaga said jamaica would need 8 billion aid
+sent_132 | offici dominican republ sideswip sunday storm report five dead
+sent_133 | gilbert also buffet cayman island death report
+sent_134 | hurrican gilbert growth harmless low pressur zone africa feroci killer gulf mexico fuel combin heat moistur wind baffl forecast
+sent_135 | matter get everyth togeth right place right time gil clark nation hurrican center said thursday
+sent_136 | doesnt happen often
+sent_137 | develop dont know
+sent_138 | gilbert came attent center forecast sept 3 dri low pressur trough move west africa
+sent_139 | get 50 60 africa everi summer
+sent_140 | one six develop said clark
+sent_141 | sept 8 system becam depress
+sent_142 | reach tropic storm statu saturday hurrican sunday
+sent_143 | tropic wave becom depress wind start swirl
+sent_144 | sustain wind reach 39 mph system becom name tropic storm
+sent_145 | reach hurrican statu sustain wind hit 74 mph
+sent_146 | gilbert organ strengthen system didnt mysteri less said univers miami meteorolog professor rainer bleck
+sent_147 | first part summer bite nail wonder disturb didnt develop said thursday
+sent_148 | that someth meteorologist would like know
+sent_149 | scientist know fuel bud storm develop begin
+sent_150 | know develop spark wind converg growth affect time place
+sent_151 | happen area there plenti moistur lower atmospher bottom 10 000 feet converg may lead upward motion cloud format bleck said
+sent_152 | cloud form heat condens cloud occasion provid posit feedback converg pattern
+sent_153 | strengthen said ad storm begin bud equat earth rotat
+sent_154 | eventu vortex creat
+sent_155 | time contract air mass start spin
+sent_156 | that make tornado hurrican blizzard winter storm bleck said
+sent_157 | hurrican use climat machin
+sent_158 | primari role transport heat lower upper atmospher said
+sent_159 | sun put energi water top ocean lowest part atmospher
+sent_160 | distribut bottom higher level atmospher
+sent_161 | depress would becom gilbert near barbado warm atlant water nurtur
+sent_162 | time year northwest caribbean best develop clark said
+sent_163 | get storm area septemb water warmest explod
+sent_164 | camil form explod refer 1969 storm slam gulf coast
+sent_165 | excit thing watch
+sent_166 | your beach watch storm surg differ stori said
+sent_167 | hurrican center said gilbert intens storm record term barometr pressur measur 26 13 inch tuesday night
+sent_168 | broke 26 35 inch 1935 hurrican devast florida key

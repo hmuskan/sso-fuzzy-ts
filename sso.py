@@ -74,7 +74,10 @@ file.close()
 best_weights = []
 
 for weight in weights_file:
-    best_weights.append(float(weight))
+    try:
+        best_weights.append(float(weight))
+    except ValueError as e:
+        print("error", e, "on line", i)
 
 
 weight_matrix = []
