@@ -30,9 +30,10 @@ for enum,file in enumerate(os.listdir(path_inp2)):
     tree = ET.parse(path_inp2+file)
     root = tree.getroot()
     text = root.text.replace("\n", " ").strip()
+    print(text)
     data.append(sent_tokenize(text))
 
-num = len(data[0]) - 1
+num = len(data[0])
 f = open('./Ns.txt','w')
 f.write(str(num))
 f.close()

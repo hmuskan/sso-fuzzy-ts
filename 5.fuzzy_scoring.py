@@ -114,6 +114,7 @@ for enum,file in enumerate(os.listdir(path_inp1)):
         score.append(fuzz.defuzz(X,mfx,'centroid'))
 
     N = NS[enum]
+    print(N)
     N_best = [label[i].split('_')[1] for i in np.argsort(score)[::-1][:N]]
     print("best")
     print(N_best)
@@ -148,5 +149,27 @@ for enum,file in enumerate(os.listdir(path_inp1)):
         f_out1.write(strg+' | '+vals+'| '+sent+'\n')
     f_out1.close()
     f_out2.close()
+
+    with open('./3.reference/001.txt') as f:
+        num_lines_ref = sum(1 for _ in f)
+
+    with open(path_out2 + '001.txt') as f:
+        num_lines_sys = sum(1 for _ in f)
+    print(num_lines_sys)
+    print(num_lines_ref)
+
+    while num_lines_sys > num_lines_ref:
+        print(num_lines_sys - num_lines_ref)
+        fd = open(path_out2 + '001.txt', "r")
+        d = fd.read()
+        fd.close()
+        m = d.split("\n")
+        s = "\n".join(m[:-1])
+        fd = open(path_out2 + '001.txt', "w+")
+        for i in range(len(s)):
+            fd.write(s[i])
+        fd.close()
+        with open(path_out2 + '001.txt') as f:
+            num_lines_sys = sum(1 for _ in f)
     
     print('time:',time.time()-start)

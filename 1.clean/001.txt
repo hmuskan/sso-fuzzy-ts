@@ -1,169 +1,201 @@
-title   | hurrican gilbert swept toward dominican republ sunday civil defens alert heavili popul south coast prepar high wind heavi rain high sea
-sent_01 | storm approach southeast sustain wind 75 mph gust 92 mph
-sent_02 | need alarm civil defens director eugenio cabral said televis alert shortli midnight saturday
-sent_03 | cabral said resid provinc barahona close follow gilbert movement
-sent_04 | estim 100 000 peopl live provinc includ 70 000 citi barahona 125 mile west santo domingo
-sent_05 | tropic storm gilbert form eastern caribbean strengthen hurrican saturday night
-sent_06 | nation hurrican center miami report posit 2 sunday latitud 16 1 north longitud 67 5 west 140 mile south ponc puerto rico 200 mile southeast santo domingo
-sent_07 | nation weather servic san juan puerto rico said gilbert move westward 15 mph broad area cloudi heavi weather rotat around center storm
-sent_08 | weather servic issu flash flood watch puerto rico virgin island least 6 p sunday
-sent_09 | strong wind associ gilbert brought coastal flood strong southeast wind 12 feet feet puerto rico south coast
-sent_010 | report casualti
-sent_11 | san juan north coast heavi rain gust saturday subsid night
-sent_12 | saturday hurrican florenc downgrad tropic storm remnant push inland u gulf coast
-sent_13 | resid return home happi find littl damag 80 mph wind sheet rain
-sent_14 | florenc sixth name storm 1988 atlant storm season second hurrican
-sent_15 | first debbi reach minim hurrican strength briefli hit mexican coast last month
-sent_16 | hurrican gilbert pack 110 mph wind torrenti rain move capit citi today skirt puerto rico haiti dominican republ
-sent_17 | immedi report casualti
-sent_18 | telephon commun affect
-sent_19 | right actual move jamaica said bob sheet director nation hurrican center miami
-sent_20 | weve alreadi report 110 mph wind eastern tip
-sent_21 | look like eye go move lengthwis across island theyr go bear full brunt power hurrican sheet said
-sent_22 | forecast say gilbert expect lash jamaica throughout day track later strike cayman island small british depend northwest jamaica
-sent_23 | meanwhil havana radio report today 25 000 peopl evacu guantanamo provinc cuba southeastern coast strong wind fan gilbert began brush island
-sent_24 | jamaica-bound flight cancel miami intern airport flight grand cayman main island three-island chain arriv pack frighten travel
-sent_25 | peopl run around main lobbi hotel grand cayman like chicken head cut said one vacation return home california miami
-sent_26 | hurrican warn post cayman island cuba haiti
-sent_27 | warn discontinu dominican republ
-sent_28 | interest western caribbean continu monitor progress danger hurrican servic said ad littl chang strength expect next sever hour hurrican move westward jamaica
-sent_29 | associ press caribbean headquart san juan puerto rico unabl get phone call kingston high wind heavi rain preced storm drench capit overnight toppl tree caus local flood litter street branch
-sent_30 | jamaican stay home board window prepar hurrican
-sent_31 | compani broadcast appeal technician electrician report work
-sent_32 | weather bureau predict gilbert center 140 mile southeast kingston dawn would pass south kingston hit southern parish clarendon
-sent_33 | flash flood warn issu parish portland northeast st mari north
-sent_34 | north coast tourist region montego bay west ocho rio east far southern impact zone separ mountain expect receiv heavi rain
-sent_35 | offici urg resid higher risk area along south coast seek higher ground
-sent_36 | certainli one larger system weve seen caribbean long time said hal gerrish forecast nation hurrican center
-sent_37 | forecast center said eye gilbert 140 mile southeast kingston dawn today
-sent_38 | maximum sustain wind near 110 mph tropical-storm forc wind extend 250 mile north 100 mile south
-sent_39 | prime minist edward seaga jamaica alert govern agenc say sunday night hurrican gilbert appear real threat everyon follow instruct hurrican precaut issu offic disast prepared order minim danger
-sent_40 | forecast said hurrican gain strength pass ocean dump 5 10 inch rain dominican republ haiti share island hispaniola
-sent_41 | know within 72 hour whether go major threat unit state said martin nelson anoth meteorologist center
-sent_42 | move 17 mph west normal hurrican take northward turn pass central cuba
-sent_43 | cuba offici prensa latina news agenc said state alert declar midday cuban provinc guantanamo holguin santiago de cuba granma
-sent_44 | report havana receiv mexico citi prensa latina said civil defens offici broadcast bulletin nation radio televis recommend emerg measur provid inform storm
-sent_45 | heavi rain stiff wind down power line caus flood dominican republ sunday night hurrican center pass south barahona peninsula less 100 mile neighbor haiti
-sent_46 | storm rip roof hous flood coastal area southwestern puerto rico reach hurrican strength island southeast saturday night
-sent_47 | flight cancel sunday dominican republ civil defens director eugenio cabral report flood part capit santo domingo power outag southern area
-sent_48 | hurrican gilbert slam kingston monday torrenti rain 115 mph wind rip roof home build uproot tree down power line
-sent_49 | seriou injuri immedi report citi 750 000 peopl hit full forc hurrican around noon
-sent_50 | half hour hurrican lash citi tear branch tree blow fenc whip paper air
-sent_51 | nation weather servic report heavi damag kingston airport aircraft park field
-sent_52 | first shock let eye storm move across citi
-sent_53 | sky brighten wind die peopl wait hour second blow hurrican arriv
-sent_54 | jamaica-bound flight cancel miami intern airport
-sent_55 | flight cayman island reportedli next path hurrican arriv miami pack travel cut short vacat
-sent_56 | peopl run around main lobbi hotel grand cayman island like chicken head cut said one man
-sent_57 | nation weather servic report said hurrican move west 17 mph maximum sustain wind 115 mph
-sent_58 | said jamaica would receiv 10 inch rain would caus flash flood mud slide
-sent_59 | right actual move jamaica said bob sheet director nation hurrican center miami
-sent_60 | look like eye go move lengthwis across island theyr go bear full brunt power hurrican said
-sent_61 | gilbert reach jamaica skirt southern puerto rico haiti dominican republ
-sent_62 | hurrican warn issu monday south coast cuba east camaguey cayman island haiti warn discontinu dominican republ
-sent_63 | high wind heavi rain preced storm drench kingston overnight toppl tree caus local flood litter street branch
-sent_64 | jamaica 2 3 million peopl stay home board window prepar hurrican
-sent_65 | popular north coast resort area side mountain expect receiv heavi rain much damag hurrican south coast offici urg resid seek higher ground
-sent_66 | havana radio meanwhil report monday 25 000 peopl evacu coastal area guantanamo provinc nation southeastern coast gilbert wind rain began brush island
-sent_67 | washington navi report base guantanamo bay cuba roosevelt road puerto rico taken variou precautionari step appear safe brunt hurrican
-sent_68 | lt ken ross spokesman said navi station guantanamo report 2 30 p edt brunt storm appear pass southeastern cuba
-sent_69 | report maximum wind 25 knot gust 50 knot said ross
-sent_70 | report injuri damag
-sent_71 | spokesman said earlier day guantanamo move condit two mean electr power usag cut back essenti use non-essenti personnel sent barrack
-sent_72 | storm also skirt puerto rico without caus damag militari facil ross said
-sent_73 | sheet said gilbert expect next sweep cayman island westward track two three day veer northwest southern gulf mexico
-sent_74 | resid neighbor cayman british depend northwest urg rush preparatori action
-sent_75 | nation weather servic warn cayman could expect high water larg wave may undermin build along beach
-sent_76 | interest western caribbean continu monitor progress danger hurrican servic advis
-sent_77 | forecast hal gerrish sunday describ gilbert certainli one larger system weve seen caribbean long time
-sent_78 | hurrican gilbert one strongest storm ever slam yucatan peninsula wednesday level thatch home tore roof uproot tree cut caribbean resort cancun cozumel
-sent_79 | looter roam street cancun steal store whose window blown away
-sent_80 | huge wave batter beach resort thousand evacu
-sent_81 | despit intens onslaught ensu heavi flood offici report two minor injuri
-sent_82 | storm kill 19 peopl jamaica five dominican republ move west mexico
-sent_83 | prime minist edward seaga jamaica said wednesday storm destroy estim 100 000 jamaica 500 000 home throttl island monday
-sent_84 | jamaican embassi report earlier 500 000 nation 2 3 million peopl homeless
-sent_85 | cancun amateur radio oper said oil tanker fleet govern oil monopoli pemex lazaro cardena run aground beach cancun hotel zone
-sent_86 | pemex offici howev said vessel secur
-sent_87 | armi offici mexico citi said 35 000 peopl evacu cancun cancun mayor jose sanchez zapata said 11 000 fled
-sent_88 | 120 000 peopl northeast yucatan coast evacu yucatan state govern said
-sent_89 | eye storm pass cozumel cancun howl wind clock 160 mph 8 edt
-sent_90 | wind bent toppl util pole uproot slum dwell
-sent_91 | ham radio oper around cancun said gilbert knock radio televis commun tower uproot tree blew roof build
-sent_92 | flood prevent offici reach hotel zone cancun relief effort way late wednesday
-sent_93 | shelter littl food water blanket power
-sent_94 | cant yet
-sent_95 | wind would blow away said armi offici citi hall declin give name
-sent_96 | band 25 30 youth roam street cancun wednesday loot store shatter window said alfredo moro sanchez investig coordin quintana roo state judici polic
-sent_97 | said ask armi troop halt loot none arriv late wednesday
-sent_98 | 150 tourist took refug cancun citi hall
-sent_99 | honeymoon sheila fournier long island said husband pete evacu villa playa hotel
-sent_100 | ocean-front view   wash away said
-sent_101 | offici check low-li area cancun strand resid
-sent_102 | heavi damag visibl humbl wood thatch home typic yucatan
-sent_103 | peopl want leav yesterday armi offici said
-sent_104 | someth new
-sent_105 | didnt know cyclon
-sent_106 | midnight edt gilbert center near latitud 21 5 north longitud 90 2 west approach north coast yucatan 60 mile east-northeast provinci capit merida nation hurrican center coral gabl fla said
-sent_107 | storm 550 mile southeast brownsvil texa center said statement
-sent_108 | gilbert move west-northwest 15 mph wind decreas 125 mph
-sent_109 | mexican nation weather servic report wind gust high 218 mph earlier wednesday sustain wind 179 mph
-sent_110 | earlier wednesday gilbert classifi categori 5 storm strongest ad deadliest type hurrican
-sent_111 | storm maximum sustain wind greater 155 mph caus catastroph damag
-sent_112 | wednesday night nation hurrican center downgrad categori 4 center director bob sheet said there question itll strengthen come yucatan peninsula get back open water
-sent_113 | gilbert move away yucatan peninsula wednesday night hurrican form doubl eye two concentr circl thunderstorm often characterist strong storm cross land move water
-sent_114 | one eye eight mile wide second 25 mile wide said hurrican center meteorologist jess moor
-sent_115 | one featur expect see hurrican move back water expect intensif said
-sent_116 | two categori 5 hurrican hit unit state   1935 storm kill 408 peopl florida hurrican camil devast mississippi coast 1969 kill 256 peopl
-sent_117 | oil compani evacu thousand worker rig gulf mexico
-sent_118 | peninsula port campech celestum progreso sinzal ucaltepen tel-chac cancun puerto morelo ciudad del carmen close govern news agenc notimex said
-sent_119 | airport region close
-sent_120 | sound wind outsid horribl said receptionist pablo torr cancun hotel carrillo storm approach
-sent_121 | nation hurrican center said hurrican watch effect texa coast brownsvil port arthur along coast northeast mexico tampico north
-sent_122 | mexico citi nation civil defens system said lost telephon contact cancun cozumel 8 edt
-sent_123 | public build cancun use shelter said cecila laval spokesman quintana roo state govern chetum 155 mile southeast cozumel
-sent_124 | jenni valdez u consular repres cancun said know mani tourist cancun govern figur estim 40 000 65 000 monthli visitor
-sent_125 | hurrican warn effect entir yucatan peninsula widespread evacu report
-sent_126 | wind destroy least 100 home slum valladolid town 45 000 100 mile cozumel alberto pol judici polic offic said telephon
-sent_127 | nation hurrican center said gilbert intens storm record term barometr pressur
-sent_128 | measur 26 31 inch break 26 35 inch record 1935 hurrican devast florida key
-sent_129 | that lowest pressur ever measur western hemispher said forecast mark zimmer
-sent_130 | sunday monday tuesday gilbert pound dominican republ jamaica cayman island
-sent_131 | seaga said jamaica would need 8 billion aid
-sent_132 | offici dominican republ sideswip sunday storm report five dead
-sent_133 | gilbert also buffet cayman island death report
-sent_134 | hurrican gilbert growth harmless low pressur zone africa feroci killer gulf mexico fuel combin heat moistur wind baffl forecast
-sent_135 | matter get everyth togeth right place right time gil clark nation hurrican center said thursday
-sent_136 | doesnt happen often
-sent_137 | develop dont know
-sent_138 | gilbert came attent center forecast sept 3 dri low pressur trough move west africa
-sent_139 | get 50 60 africa everi summer
-sent_140 | one six develop said clark
-sent_141 | sept 8 system becam depress
-sent_142 | reach tropic storm statu saturday hurrican sunday
-sent_143 | tropic wave becom depress wind start swirl
-sent_144 | sustain wind reach 39 mph system becom name tropic storm
-sent_145 | reach hurrican statu sustain wind hit 74 mph
-sent_146 | gilbert organ strengthen system didnt mysteri less said univers miami meteorolog professor rainer bleck
-sent_147 | first part summer bite nail wonder disturb didnt develop said thursday
-sent_148 | that someth meteorologist would like know
-sent_149 | scientist know fuel bud storm develop begin
-sent_150 | know develop spark wind converg growth affect time place
-sent_151 | happen area there plenti moistur lower atmospher bottom 10 000 feet converg may lead upward motion cloud format bleck said
-sent_152 | cloud form heat condens cloud occasion provid posit feedback converg pattern
-sent_153 | strengthen said ad storm begin bud equat earth rotat
-sent_154 | eventu vortex creat
-sent_155 | time contract air mass start spin
-sent_156 | that make tornado hurrican blizzard winter storm bleck said
-sent_157 | hurrican use climat machin
-sent_158 | primari role transport heat lower upper atmospher said
-sent_159 | sun put energi water top ocean lowest part atmospher
-sent_160 | distribut bottom higher level atmospher
-sent_161 | depress would becom gilbert near barbado warm atlant water nurtur
-sent_162 | time year northwest caribbean best develop clark said
-sent_163 | get storm area septemb water warmest explod
-sent_164 | camil form explod refer 1969 storm slam gulf coast
-sent_165 | excit thing watch
-sent_166 | your beach watch storm surg differ stori said
-sent_167 | hurrican center said gilbert intens storm record term barometr pressur measur 26 13 inch tuesday night
-sent_168 | broke 26 35 inch 1935 hurrican devast florida key
+title   | store manag wal-mart commun outskirt dalla tell stori give insight man consid respons retail phenomenon
+sent_01 | manag bost rememb one day last summer secretari telephon wal-mart store inc corpor headquart bentonvil ark
+sent_02 | chairman sam walton land nearbi airport secretari ask someon could fetch bring de soto store
+sent_03 | pay unexpect call store one way walton kept close touch everyday goings-on
+sent_04 | exampl follow wal-mart execut make point spend lot time field
+sent_05 | say ed nagi district manag 9 store dalla metropolitan area like uh-oh someon come theyr alway
+sent_06 | account sam walton person permeat oper throughout compani
+sent_07 | everyon wal-mart presid chief oper offic david glass hourli store worker readili quot gospel accord sam call
+sent_08 | paraphras sam primari rule retail rule 1 custom alway right
+sent_09 | rule 2 say case custom wrong revert rule 1
+sent_010 | principl sound old-fashion homespun that way sam peopl know say
+sent_11 | shun limelight compani success shed decid refus almost press request interview
+sent_12 | he happi chat folk store though
+sent_13 | also regularli remind wal-mart associ hospit custom crucial
+sent_14 | preach person via high-tech satellit hookup store
+sent_15 | wal-mart employe becam known associ compani effort prove care employe partli thwart union organ effort late 1960
+sent_16 | one sensit subject walton fortun he amass
+sent_17 | close associ say sam would probabl give anyth name fortun magazin list countri wealthiest peopl
+sent_18 | magazin estim immedi famili stake wal-mart stock worth 6 8 billion
+sent_19 | sam walton interest backhand bank account say shinkl wal-mart spokesman
+sent_20 | samuel moor walton turn 71 march 29
+sent_21 | born kingfish okla grew son farm-mortgag banker
+sent_22 | graduat univers missouri econom degre 1940 join j c penney co manag traine de moin iowa
+sent_23 | serv three year armi went arkansa open ben franklin five-and-dim store eventu becom compani biggest franchise
+sent_24 | seed wal-mart empir sown sam brother jame l bud open first wal-mart discount citi 1962
+sent_25 | rest probabl earn entri histori u retail trade
+sent_26 | bud senior vice presid board member wal-mart
+sent_27 | three four grown children sam wife helen involv compani variou capac
+sent_28 | sam hasnt slow much enjoy hunt tenni much ever said suffer effect bout leukemia remiss
+sent_29 | spend less time offic sinc hand responsibl david glass
+sent_30 | sam still chairman board
+sent_31 | glass doesnt hesit ask wal-mart flourish without sam
+sent_32 | answer emphat ye say great peopl
+sent_33 | walton famili alway involv add
+sent_34 | comment futur glass say well judg produc today
+sent_35 | tomorrow weve done past wont matter
+sent_36 | wal-mart founder sam walton pitch help check-out clerk store florida panhandl citi electron glitch shut cash regist
+sent_37 | 71-year-old walton consid one world richest peopl grab note pad tuesday even start hand-writ merchandis price custom bill could talli calcul quickli
+sent_38 | peopl began recogn come greet said store manag paul sive
+sent_39 | shook hand talk everyon could
+sent_40 | regist 45 minut dont think one custom complain
+sent_41 | walton known down-hom style made surpris visit store later tuesday stage concert countri singer jana jea park lot
+sent_42 | walton often attend promot event arkansas-bas chain sive said suspect boss might make appear
+sent_43 | walton continu talk custom concert
+sent_44 | also join singer stage sing duet led custom wal-mart cheer
+sent_45 | say give w give custom went right along sive said
+sent_46 | even got cheerlead squiggl
+sent_47 | he rank richest man nation lead busi magazin folk bentonvil town 8 700 peopl sam walton anoth neighbor
+sent_48 | he part commun said curt loyd execut director bentonvil chamber commerc
+sent_49 | he neat person
+sent_50 | call bentonvil home special us
+sent_51 | walton prefer bird-hunt tenni open new wal-mart store trumpet person financi hold shun public third consecut rank among world top billionair
+sent_52 | accord forb magazin juli 24 edit walton famili estim worth 8 7 billion 1988 estim 6 5 billion
+sent_53 | unavail said wal-mart spokesman shinkl silver-hair founder nation third-largest retail chain base bentonvil 150 mile northwest littl rock
+sent_54 | shinkl said receiv 10 call report monday morn forb list appear newspap
+sent_55 | shinkl said news coverag walton usual set press frenzi comment
+sent_56 | 71-year-old businessman declin comment
+sent_57 | feel attent sam walton individu prefer attent sam walton founder compani shinkl said
+sent_58 | seldom schedul interview feel
+sent_59 | put posit doesnt want
+sent_60 | walton occasion offer peek reveal person modesti
+sent_61 | 1987 stock market crash walton family-own chunk wal-mart stock lost million valu quip respons question news confer anoth topic paper
+sent_62 | walton chang subject
+sent_63 | walton first list forb nation richest man octob 1985
+sent_64 | three year ago forb also began list world wealthiest peopl
+sent_65 | walton made list richest american everi year sinc
+sent_66 | year rank third behind two japanes businessmen
+sent_67 | shinkl said walton stay busi visit mani 1 400 store oper compani start singl five-and-dim roger two decad ago
+sent_68 | offic four day week spokesman said
+sent_69 | spend time talk associ custom shinkl said alway come back mani idea
+sent_70 | wal-mart call sale help associ instead employe
+sent_71 | walton first made forb list richest american recal littl rock invest banker warren simpson call came billionair ozark
+sent_72 | want know stock compani said simpson work stephen inc youd think hed live new york la bentonvil arkansa
+sent_73 | peopl accept
+sent_74 | come yeah he still simpson said
+sent_75 | forti year sam walton first hung shingl walton 5 10 reopen show littl rural storekeep built discount retail empir
+sent_76 | wal-mart store inc visitor center open wednesday build downtown squar walton first open busi may 9 1950
+sent_77 | center chronicl rise nation fastest-grow discount chain use display audio-video present
+sent_78 | concentr free enterpris system work wal-mart thrive similar compani didnt
+sent_79 | window display date back store open simplic pattern johnson glo-coat box dreft ivori snow
+sent_80 | insid electron map detail compani 1 500-plu store chain today
+sent_81 | also display center hula skirt sam walton don danc wall street perform challeng compani reach record 8 percent pre-tax profit 1984
+sent_82 | goal accomplish danc
+sent_83 | old modern togeth reflect corpor cultur nation biggest discount retail behind k mart corp detroit
+sent_84 | walton brother bud open first wal-mart discount citi 1962
+sent_85 | hand open along sprinkl dignitari includ gov
+sent_86 | bill clinton dedic speaker
+sent_87 | asid display present center also replica sam walton origin offic store includ mani fixtur use 40 year ago
+sent_88 | also display photograph young sam walton fat-fac babi born oklahoma 1920
+sent_89 | typic wal-mart outlook dust bowl oklahoma term place grow dream video walton famili
+sent_90 | stint j c penney co armi open ben franklin store newport 1945
+sent_91 | lost leas one reloc bentonvil
+sent_92 | that stori took
+sent_93 | sam walton convinc bob bogl public health offic take manag bentonvil ben franklin store 1955
+sent_94 | walton said want put dozen store need someon tend shop bentonvil brother built chain ben franklin bogl said recent interview
+sent_95 | that bogl found walton learn go train program
+sent_96 | got home 10 oclock night scrub wax floor sam bogl said
+sent_97 | inauspici first impress part stori
+sent_98 | one video david glass succeed sam walton chief execut wal-mart 1988 recal impress attend open second wal-mart discount citi harrison 1964
+sent_99 | first store roger open two year earlier
+sent_100 | thought absolut worst discount store retail store ever seen said glass presid drugstor chain time
+sent_101 | wal-mart vice chairman donald soderquist recal walton took idea put discount store rural area ben franklin headquart chicago offici realli didnt see futur
+sent_102 | shinkl wal-mart director corpor public affair attribut wal-mart success associ   term employe first coin 1972 stress wal-mart employe partner compani   sam walton leadership knack hire right person right time
+sent_103 | start 1990 wal-mart own 1 402 store employ 272 000 list sale 25 8 billion
+sent_104 | sam wholesal club close year 123 unit wal-mart announc plan enter california market
+sent_105 | sam walton arguabl import retail gener
+sent_106 | son oklahoma real-est broker open first gener store becom wal-mart chain bentonvil backwat arkansa 1950 write martin dickson
+sent_107 | 1991 chain sale risen nearli dollar 44bn make world largest retail term revenu walton famili probabl america richest
+sent_108 | wal-mart oper 43 us state sell good rang deterg golf club
+sent_109 | chain success stem mr walton person willing challeng accept retail orthodoxi
+sent_110 | frugal modest man work extrem long hour spartan room bentonvil headquart delight get offic tour store meet custom staff insist call associ
+sent_111 | would deliv pep-talk employe extol virtu thrift custom satisfact long becam fashion manag buzz-word
+sent_112 | employe satisfact idea gain wider accept us servic industri also vital ingredi walton philosophi
+sent_113 | buoy staff moral cheer-lead session bonu payment good perform profit-shar plan allow employe modest mean retir rel wealthi
+sent_114 | eight year ago wal-mart profit better expect kept promis staff dress grass-skirt danc hula wall street
+sent_115 | also essenti wal-mart growth pioneer high volum cut-pric retail throughout year rather period sale rival reli gener custom loyalti
+sent_116 | low price alway becam wal-mart motto
+sent_117 | mr walton also disprov convent wisdom larg discount store could oper success small rural town us south
+sent_118 | precis locat becam bedrock busi though process wal-mart put busi hundr small main street store prompt bitter resist town mr walton tend blunt gener charit donat
+sent_119 | made america stori sam walton doubleday dollar 22 50
+sent_120 | 269 page american folk hero tricki assign ross perot found
+sent_121 | problem great american public like boot-strap entrepreneur rich upright
+sent_122 | countri busi practic overli genteel tough combin achiev
+sent_123 | vast media circu meanwhil quick expos flaw
+sent_124 | sam walton founder wal-mart chain discount supermarket die cancer april negoti pitfal much better
+sent_125 | 1985 forb magazin declar america richest entrepreneur paparazzi descend obscur corner arkansa mainli occupi chicken farmer walton made home
+sent_126 | found happili marri much-lik billionair enjoy quail hunt breakfast local holiday inn drove batter pick-up truck minu two hub-cap
+sent_127 | folksi understat
+sent_128 | sinc aspect wal-mart busi anti-union polici impact dollar 40bn annual sale hundr mom-and-pop shop subject critic scrutini
+sent_129 | extent less wholesom adventur four walton children
+sent_130 | one ever abl make sam look bad
+sent_131 | worst said rather dull
+sent_132 | walton dash anyon illus
+sent_133 | reader either find autobiographi lash good ol common-sens lot harmless charm anecdot
+sent_134 | find dreari downbeat
+sent_135 | walton make excus realis may sound bore write one stage one best item ever mattress pad call bedmat
+sent_136 | 
+sent_137 | 
+sent_138 | 
+sent_139 | snippet reveal charact
+sent_140 | mani billionair admit never learn handwrit well gut includ photograph demonstr point
+sent_141 | meanwhil competit energi sam walton appli busi inescap
+sent_142 | one mani contribut friend famili soderquist wal-mart chief oper offic tell find sam one saturday morn hand knee local kmart store analys rival stock
+sent_143 | wife casual asid note coupl holiday itali luggag vanish husband similar scout mission
+sent_144 | david glass wal-mart current chief execut perhap captur entrepreneuri walton spirit best
+sent_145 | explain annual contest wal-mart execut choos one volum produc item promot recal time sam usual select minnow bucket carri bait
+sent_146 | glass happili team appl juic
+sent_147 | would go store get take minnow bucket
+sent_148 | 
+sent_149 | 
+sent_150 | put ice ice juic give away sampl minnow bucket
+sent_151 | particularli store knew sam go visit
+sent_152 | drove crazi got minnow bucket pretti quick
+sent_153 | 
+sent_154 | 
+sent_155 | 
+sent_156 | reader cant help feel cosi yarn tell half truth
+sent_157 | sam walton salesman core seem packag skill appli sell gooey southern sweet call moon pie
+sent_158 | part make engag one-dimension portrait
+sent_159 | occasion grate
+sent_160 | bought bank bentonvil dollar 300 000 walton remark exampl littl old bank dollar 3 5m deposit
+sent_161 | help learn lot financ thing
+sent_162 | oh come sam whole stori
+sent_163 | real truth one suspect come right end book walton admit hadnt gotten sick doubt would written book
+sent_164 | given plead publish doubleday paid dollar 4m manuscript rather natur desir final say hardli blame agre write
+sent_165 | unlik circumst make critic self-analysi
+sent_166 | end day sam walton heritag shop mall bookstor
+sent_167 | wal-mart histori sam walton retail phenomenon sandra vanc roy v scott twayn publish new york dollar 14 95 240 page mani peopl might said personif american dream better qualifi titl sam walton
+sent_168 | walton charact would difficult invent all-american boy becam one world success businessmen
+sent_169 | church-go son farmer born 1918 near kingfish oklahoma found store chain made america richest man shortli death 1992 becam world biggest retail
+sent_170 | compani wal-mart made sale dollar 55bn last year walton death fortun magazin report wife four children held second-largest fortun world dollar 23 5bn
+sent_171 | startl wal-mart speed growth
+sent_172 | although walton built small chain ben franklin varieti store franchis 1945 1962 open first wal-mart discount store
+sent_173 | time incorpor 1971 wal-mart 38 outlet sale dollar 44m enough earn place trade journal discount merchandis list 71 biggest us discount retail
+sent_174 | ten year later 330 store dollar 1 6bn sale 33rd-biggest retail us
+sent_175 | turnov 9 per cent sear roebuck biggest 11 per cent k mart second-biggest
+sent_176 | within anoth 10 year wal-mart overtaken
+sent_177 | apart walton autobiographi complet shortli death howev publish materi compani curious scarc
+sent_178 | book attempt fill gap provid scholarli account rise wal-mart set wider context us retail explain achiev
+sent_179 | one strength author identifi wal-mart abil copi adapt retail
+sent_180 | sam walton invent discount retail
+sent_181 | rather realis threat discount pose varieti store busi studi depth mani uss lead discount earli 1960 includ ann hope e j korvett spartan fed-mart k mart
+sent_182 | walton learn uniqu take discount store small town thousand peopl shopper use travel long distanc delight cut-pric store nearbi sell everyth need
+sent_183 | anoth strength wal-mart open technolog
+sent_184 | earli 1950 walton realis wast much time travel bought small aircraft pilot store someth continu end life
+sent_185 | sometim walton reluct invest technolog persuad colleagu introduc comput scan check-out long retail recognis import invest dollar 20m intern satellit commun system
+sent_186 | technolog help wal-mart build one effici distribut system retail
+sent_187 | perhap fundament reason success book suggest wal-mart streamlin highli respons manag structur
+sent_188 | region vice-presid base group headquart bentonvil arkansa rather costli region offic despatch everi monday aircraft region spend week visit store work staff manag return day-long merchandis meet everi friday
+sent_189 | discuss result problem suggest week 7 30am meet saturday immedi afterward call district manag relat result
+sent_190 | district manag hold confer call store manag day content meet commun store depart head
+sent_191 | system mean employe make suggest vice-presid one week idea accept saturday meet see implement begin follow week
+sent_192 | even world success retail make mistak howev
+sent_193 | one walton decis stand chairman chief execut role 1974 favour ronald mayer return role 1976 find incap let go rein
+sent_194 | anoth wal-mart short-liv hypermart format prove big even gigantist america
+sent_195 | walton rash promis hula danc wall street wal-mart achiev 8 per cent pre-tax profit margin 1984
+sent_196 | 
+sent_197 | book also cover well debat whether wal-mart impact economi small us town posit neg
+sent_198 | critic scholarli account never quit captur sheer excit work world fastest-grow retail
+sent_199 | moreov make littl attempt predict whether wal-mart continu growth conquer rest world way conquer us
+sent_200 | well-research access account one man success build american dream
