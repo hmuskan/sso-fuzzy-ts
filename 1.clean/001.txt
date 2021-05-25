@@ -1,201 +1,123 @@
-title   | store manag wal-mart commun outskirt dalla tell stori give insight man consid respons retail phenomenon
-sent_01 | manag bost rememb one day last summer secretari telephon wal-mart store inc corpor headquart bentonvil ark
-sent_02 | chairman sam walton land nearbi airport secretari ask someon could fetch bring de soto store
-sent_03 | pay unexpect call store one way walton kept close touch everyday goings-on
-sent_04 | exampl follow wal-mart execut make point spend lot time field
-sent_05 | say ed nagi district manag 9 store dalla metropolitan area like uh-oh someon come theyr alway
-sent_06 | account sam walton person permeat oper throughout compani
-sent_07 | everyon wal-mart presid chief oper offic david glass hourli store worker readili quot gospel accord sam call
-sent_08 | paraphras sam primari rule retail rule 1 custom alway right
-sent_09 | rule 2 say case custom wrong revert rule 1
-sent_010 | principl sound old-fashion homespun that way sam peopl know say
-sent_11 | shun limelight compani success shed decid refus almost press request interview
-sent_12 | he happi chat folk store though
-sent_13 | also regularli remind wal-mart associ hospit custom crucial
-sent_14 | preach person via high-tech satellit hookup store
-sent_15 | wal-mart employe becam known associ compani effort prove care employe partli thwart union organ effort late 1960
-sent_16 | one sensit subject walton fortun he amass
-sent_17 | close associ say sam would probabl give anyth name fortun magazin list countri wealthiest peopl
-sent_18 | magazin estim immedi famili stake wal-mart stock worth 6 8 billion
-sent_19 | sam walton interest backhand bank account say shinkl wal-mart spokesman
-sent_20 | samuel moor walton turn 71 march 29
-sent_21 | born kingfish okla grew son farm-mortgag banker
-sent_22 | graduat univers missouri econom degre 1940 join j c penney co manag traine de moin iowa
-sent_23 | serv three year armi went arkansa open ben franklin five-and-dim store eventu becom compani biggest franchise
-sent_24 | seed wal-mart empir sown sam brother jame l bud open first wal-mart discount citi 1962
-sent_25 | rest probabl earn entri histori u retail trade
-sent_26 | bud senior vice presid board member wal-mart
-sent_27 | three four grown children sam wife helen involv compani variou capac
-sent_28 | sam hasnt slow much enjoy hunt tenni much ever said suffer effect bout leukemia remiss
-sent_29 | spend less time offic sinc hand responsibl david glass
-sent_30 | sam still chairman board
-sent_31 | glass doesnt hesit ask wal-mart flourish without sam
-sent_32 | answer emphat ye say great peopl
-sent_33 | walton famili alway involv add
-sent_34 | comment futur glass say well judg produc today
-sent_35 | tomorrow weve done past wont matter
-sent_36 | wal-mart founder sam walton pitch help check-out clerk store florida panhandl citi electron glitch shut cash regist
-sent_37 | 71-year-old walton consid one world richest peopl grab note pad tuesday even start hand-writ merchandis price custom bill could talli calcul quickli
-sent_38 | peopl began recogn come greet said store manag paul sive
-sent_39 | shook hand talk everyon could
-sent_40 | regist 45 minut dont think one custom complain
-sent_41 | walton known down-hom style made surpris visit store later tuesday stage concert countri singer jana jea park lot
-sent_42 | walton often attend promot event arkansas-bas chain sive said suspect boss might make appear
-sent_43 | walton continu talk custom concert
-sent_44 | also join singer stage sing duet led custom wal-mart cheer
-sent_45 | say give w give custom went right along sive said
-sent_46 | even got cheerlead squiggl
-sent_47 | he rank richest man nation lead busi magazin folk bentonvil town 8 700 peopl sam walton anoth neighbor
-sent_48 | he part commun said curt loyd execut director bentonvil chamber commerc
-sent_49 | he neat person
-sent_50 | call bentonvil home special us
-sent_51 | walton prefer bird-hunt tenni open new wal-mart store trumpet person financi hold shun public third consecut rank among world top billionair
-sent_52 | accord forb magazin juli 24 edit walton famili estim worth 8 7 billion 1988 estim 6 5 billion
-sent_53 | unavail said wal-mart spokesman shinkl silver-hair founder nation third-largest retail chain base bentonvil 150 mile northwest littl rock
-sent_54 | shinkl said receiv 10 call report monday morn forb list appear newspap
-sent_55 | shinkl said news coverag walton usual set press frenzi comment
-sent_56 | 71-year-old businessman declin comment
-sent_57 | feel attent sam walton individu prefer attent sam walton founder compani shinkl said
-sent_58 | seldom schedul interview feel
-sent_59 | put posit doesnt want
-sent_60 | walton occasion offer peek reveal person modesti
-sent_61 | 1987 stock market crash walton family-own chunk wal-mart stock lost million valu quip respons question news confer anoth topic paper
-sent_62 | walton chang subject
-sent_63 | walton first list forb nation richest man octob 1985
-sent_64 | three year ago forb also began list world wealthiest peopl
-sent_65 | walton made list richest american everi year sinc
-sent_66 | year rank third behind two japanes businessmen
-sent_67 | shinkl said walton stay busi visit mani 1 400 store oper compani start singl five-and-dim roger two decad ago
-sent_68 | offic four day week spokesman said
-sent_69 | spend time talk associ custom shinkl said alway come back mani idea
-sent_70 | wal-mart call sale help associ instead employe
-sent_71 | walton first made forb list richest american recal littl rock invest banker warren simpson call came billionair ozark
-sent_72 | want know stock compani said simpson work stephen inc youd think hed live new york la bentonvil arkansa
-sent_73 | peopl accept
-sent_74 | come yeah he still simpson said
-sent_75 | forti year sam walton first hung shingl walton 5 10 reopen show littl rural storekeep built discount retail empir
-sent_76 | wal-mart store inc visitor center open wednesday build downtown squar walton first open busi may 9 1950
-sent_77 | center chronicl rise nation fastest-grow discount chain use display audio-video present
-sent_78 | concentr free enterpris system work wal-mart thrive similar compani didnt
-sent_79 | window display date back store open simplic pattern johnson glo-coat box dreft ivori snow
-sent_80 | insid electron map detail compani 1 500-plu store chain today
-sent_81 | also display center hula skirt sam walton don danc wall street perform challeng compani reach record 8 percent pre-tax profit 1984
-sent_82 | goal accomplish danc
-sent_83 | old modern togeth reflect corpor cultur nation biggest discount retail behind k mart corp detroit
-sent_84 | walton brother bud open first wal-mart discount citi 1962
-sent_85 | hand open along sprinkl dignitari includ gov
-sent_86 | bill clinton dedic speaker
-sent_87 | asid display present center also replica sam walton origin offic store includ mani fixtur use 40 year ago
-sent_88 | also display photograph young sam walton fat-fac babi born oklahoma 1920
-sent_89 | typic wal-mart outlook dust bowl oklahoma term place grow dream video walton famili
-sent_90 | stint j c penney co armi open ben franklin store newport 1945
-sent_91 | lost leas one reloc bentonvil
-sent_92 | that stori took
-sent_93 | sam walton convinc bob bogl public health offic take manag bentonvil ben franklin store 1955
-sent_94 | walton said want put dozen store need someon tend shop bentonvil brother built chain ben franklin bogl said recent interview
-sent_95 | that bogl found walton learn go train program
-sent_96 | got home 10 oclock night scrub wax floor sam bogl said
-sent_97 | inauspici first impress part stori
-sent_98 | one video david glass succeed sam walton chief execut wal-mart 1988 recal impress attend open second wal-mart discount citi harrison 1964
-sent_99 | first store roger open two year earlier
-sent_100 | thought absolut worst discount store retail store ever seen said glass presid drugstor chain time
-sent_101 | wal-mart vice chairman donald soderquist recal walton took idea put discount store rural area ben franklin headquart chicago offici realli didnt see futur
-sent_102 | shinkl wal-mart director corpor public affair attribut wal-mart success associ   term employe first coin 1972 stress wal-mart employe partner compani   sam walton leadership knack hire right person right time
-sent_103 | start 1990 wal-mart own 1 402 store employ 272 000 list sale 25 8 billion
-sent_104 | sam wholesal club close year 123 unit wal-mart announc plan enter california market
-sent_105 | sam walton arguabl import retail gener
-sent_106 | son oklahoma real-est broker open first gener store becom wal-mart chain bentonvil backwat arkansa 1950 write martin dickson
-sent_107 | 1991 chain sale risen nearli dollar 44bn make world largest retail term revenu walton famili probabl america richest
-sent_108 | wal-mart oper 43 us state sell good rang deterg golf club
-sent_109 | chain success stem mr walton person willing challeng accept retail orthodoxi
-sent_110 | frugal modest man work extrem long hour spartan room bentonvil headquart delight get offic tour store meet custom staff insist call associ
-sent_111 | would deliv pep-talk employe extol virtu thrift custom satisfact long becam fashion manag buzz-word
-sent_112 | employe satisfact idea gain wider accept us servic industri also vital ingredi walton philosophi
-sent_113 | buoy staff moral cheer-lead session bonu payment good perform profit-shar plan allow employe modest mean retir rel wealthi
-sent_114 | eight year ago wal-mart profit better expect kept promis staff dress grass-skirt danc hula wall street
-sent_115 | also essenti wal-mart growth pioneer high volum cut-pric retail throughout year rather period sale rival reli gener custom loyalti
-sent_116 | low price alway becam wal-mart motto
-sent_117 | mr walton also disprov convent wisdom larg discount store could oper success small rural town us south
-sent_118 | precis locat becam bedrock busi though process wal-mart put busi hundr small main street store prompt bitter resist town mr walton tend blunt gener charit donat
-sent_119 | made america stori sam walton doubleday dollar 22 50
-sent_120 | 269 page american folk hero tricki assign ross perot found
-sent_121 | problem great american public like boot-strap entrepreneur rich upright
-sent_122 | countri busi practic overli genteel tough combin achiev
-sent_123 | vast media circu meanwhil quick expos flaw
-sent_124 | sam walton founder wal-mart chain discount supermarket die cancer april negoti pitfal much better
-sent_125 | 1985 forb magazin declar america richest entrepreneur paparazzi descend obscur corner arkansa mainli occupi chicken farmer walton made home
-sent_126 | found happili marri much-lik billionair enjoy quail hunt breakfast local holiday inn drove batter pick-up truck minu two hub-cap
-sent_127 | folksi understat
-sent_128 | sinc aspect wal-mart busi anti-union polici impact dollar 40bn annual sale hundr mom-and-pop shop subject critic scrutini
-sent_129 | extent less wholesom adventur four walton children
-sent_130 | one ever abl make sam look bad
-sent_131 | worst said rather dull
-sent_132 | walton dash anyon illus
-sent_133 | reader either find autobiographi lash good ol common-sens lot harmless charm anecdot
-sent_134 | find dreari downbeat
-sent_135 | walton make excus realis may sound bore write one stage one best item ever mattress pad call bedmat
-sent_136 | 
-sent_137 | 
-sent_138 | 
-sent_139 | snippet reveal charact
-sent_140 | mani billionair admit never learn handwrit well gut includ photograph demonstr point
-sent_141 | meanwhil competit energi sam walton appli busi inescap
-sent_142 | one mani contribut friend famili soderquist wal-mart chief oper offic tell find sam one saturday morn hand knee local kmart store analys rival stock
-sent_143 | wife casual asid note coupl holiday itali luggag vanish husband similar scout mission
-sent_144 | david glass wal-mart current chief execut perhap captur entrepreneuri walton spirit best
-sent_145 | explain annual contest wal-mart execut choos one volum produc item promot recal time sam usual select minnow bucket carri bait
-sent_146 | glass happili team appl juic
-sent_147 | would go store get take minnow bucket
-sent_148 | 
-sent_149 | 
-sent_150 | put ice ice juic give away sampl minnow bucket
-sent_151 | particularli store knew sam go visit
-sent_152 | drove crazi got minnow bucket pretti quick
-sent_153 | 
-sent_154 | 
-sent_155 | 
-sent_156 | reader cant help feel cosi yarn tell half truth
-sent_157 | sam walton salesman core seem packag skill appli sell gooey southern sweet call moon pie
-sent_158 | part make engag one-dimension portrait
-sent_159 | occasion grate
-sent_160 | bought bank bentonvil dollar 300 000 walton remark exampl littl old bank dollar 3 5m deposit
-sent_161 | help learn lot financ thing
-sent_162 | oh come sam whole stori
-sent_163 | real truth one suspect come right end book walton admit hadnt gotten sick doubt would written book
-sent_164 | given plead publish doubleday paid dollar 4m manuscript rather natur desir final say hardli blame agre write
-sent_165 | unlik circumst make critic self-analysi
-sent_166 | end day sam walton heritag shop mall bookstor
-sent_167 | wal-mart histori sam walton retail phenomenon sandra vanc roy v scott twayn publish new york dollar 14 95 240 page mani peopl might said personif american dream better qualifi titl sam walton
-sent_168 | walton charact would difficult invent all-american boy becam one world success businessmen
-sent_169 | church-go son farmer born 1918 near kingfish oklahoma found store chain made america richest man shortli death 1992 becam world biggest retail
-sent_170 | compani wal-mart made sale dollar 55bn last year walton death fortun magazin report wife four children held second-largest fortun world dollar 23 5bn
-sent_171 | startl wal-mart speed growth
-sent_172 | although walton built small chain ben franklin varieti store franchis 1945 1962 open first wal-mart discount store
-sent_173 | time incorpor 1971 wal-mart 38 outlet sale dollar 44m enough earn place trade journal discount merchandis list 71 biggest us discount retail
-sent_174 | ten year later 330 store dollar 1 6bn sale 33rd-biggest retail us
-sent_175 | turnov 9 per cent sear roebuck biggest 11 per cent k mart second-biggest
-sent_176 | within anoth 10 year wal-mart overtaken
-sent_177 | apart walton autobiographi complet shortli death howev publish materi compani curious scarc
-sent_178 | book attempt fill gap provid scholarli account rise wal-mart set wider context us retail explain achiev
-sent_179 | one strength author identifi wal-mart abil copi adapt retail
-sent_180 | sam walton invent discount retail
-sent_181 | rather realis threat discount pose varieti store busi studi depth mani uss lead discount earli 1960 includ ann hope e j korvett spartan fed-mart k mart
-sent_182 | walton learn uniqu take discount store small town thousand peopl shopper use travel long distanc delight cut-pric store nearbi sell everyth need
-sent_183 | anoth strength wal-mart open technolog
-sent_184 | earli 1950 walton realis wast much time travel bought small aircraft pilot store someth continu end life
-sent_185 | sometim walton reluct invest technolog persuad colleagu introduc comput scan check-out long retail recognis import invest dollar 20m intern satellit commun system
-sent_186 | technolog help wal-mart build one effici distribut system retail
-sent_187 | perhap fundament reason success book suggest wal-mart streamlin highli respons manag structur
-sent_188 | region vice-presid base group headquart bentonvil arkansa rather costli region offic despatch everi monday aircraft region spend week visit store work staff manag return day-long merchandis meet everi friday
-sent_189 | discuss result problem suggest week 7 30am meet saturday immedi afterward call district manag relat result
-sent_190 | district manag hold confer call store manag day content meet commun store depart head
-sent_191 | system mean employe make suggest vice-presid one week idea accept saturday meet see implement begin follow week
-sent_192 | even world success retail make mistak howev
-sent_193 | one walton decis stand chairman chief execut role 1974 favour ronald mayer return role 1976 find incap let go rein
-sent_194 | anoth wal-mart short-liv hypermart format prove big even gigantist america
-sent_195 | walton rash promis hula danc wall street wal-mart achiev 8 per cent pre-tax profit margin 1984
-sent_196 | 
-sent_197 | book also cover well debat whether wal-mart impact economi small us town posit neg
-sent_198 | critic scholarli account never quit captur sheer excit work world fastest-grow retail
-sent_199 | moreov make littl attempt predict whether wal-mart continu growth conquer rest world way conquer us
-sent_200 | well-research access account one man success build american dream
+title   | presid corazon aquino agre allow ferdinand marco return philippin govern tri charg steal billion dollar newspap said saturday
+sent_01 | manila bulletin manila chronicl quot mr aquino press secretari teodoro benigno say mr aquino made assur two swiss lawyer visit switzerland earlier month
+sent_02 | report say crimin charg marco aquino oust predecessor file mr aquino allow return
+sent_03 | mr aquino refus allow marco philippin cite secur reason
+sent_04 | marco live exil hawaii
+sent_05 | mr aquino govern said file crimin charg marco accus steal 10 billion govern fund
+sent_06 | govern done mr aquino refus let marco enter countri
+sent_07 | philippin law allow trial absentia
+sent_08 | swiss lawyer help philippin govern trace money marco famili allegedli place swiss bank account
+sent_09 | marco live hawaii sinc toppl civilian-militari revolt swept mr aquino power februari 1986
+sent_010 | swiss govern frozen asset marco associ releas inform philippin govern legal challeng pose marco lawyer swiss bank
+sent_11 | unidentifi swiss lawyer said inform turn unless assur formal charg file benigno quot say
+sent_12 | swiss law allow lift bank secreci law case crimin prosecut
+sent_13 | mr aquino said would allow marco return famili swore allegi govern return money allegedli stole 20-year rule
+sent_14 | said later would abid court decis marco lawyer philippin rais matter return court
+sent_15 | benigno quot say mr aquino accept possibl marco return home
+sent_16 | presid corazon aquino said today allow ferdinand marco come home die govern permit oust presid buri philippin soil
+sent_17 | marco wife imelda appeal today mr aquino open heart allow former presid return
+sent_18 | marco lawyer also ask philippin suprem court order return pledg oust leader would cooper aquino administr
+sent_19 | marco report critic condit today honolulu hospit undergo emerg kidney surgeri
+sent_20 | hospit offici said 71-year-old former philippin leader suffer renal cardiac pulmonari failur
+sent_21 | honolulu marco aid arturo aruiza said imelda left hospit make final appeal mr aquino allow husband die homeland
+sent_22 | mr aquino daughter maria elena cruz said presid receiv call mr marco
+sent_23 | mr cruz serv mother secretari
+sent_24 | statement broadcast today pro-marco radio station dzec imelda said tri contact presidenti offic make last appeal madam corazon aquino open heart let ferdinand come home seriou condit
+sent_25 | reconcili what best countri imelda said
+sent_26 | id like ask peopl pray marco may continu live
+sent_27 | mr aquino told report earlier sorri hear marco condit deterior pray abl recov
+sent_28 | regret inform mr marco inde ask reconsider said past much agre mr marco right still consid also right interest million filipino mr aquino said
+sent_29 | alreadi said past allow remain brought back alreadi taken plan avoid untoward incid ad
+sent_30 | mr aquino succeed marco 1986 upris toppl administr forc exil hawaii
+sent_31 | today manila stock exchang composit index fell 1 084 53 thursday close 1 102 97
+sent_32 | trader said rumor marco death trigger sell wave shortli noon
+sent_33 | honolulu marco aid arturo aruiza said mr marco plan make one last appeal mr aquino allow husband return home
+sent_34 | rafael ileto mr aquino nation secur advisor said grant request still option doubt much one solut
+sent_35 | ileto met mr aquino half-hour today said marco longer pose threat nation follow caus disrupt normal function
+sent_36 | ileto retir vice chief staff former defens minist said 160 000-member arm forc capabl quell unrest marco support
+sent_37 | presid corazon aquino friday refus allow ferdinand marco return home die said govern wont permit buri despit last appeal wife
+sent_38 | 71-year-old marco critic condit friday honolulu hospit emerg kidney surgeri
+sent_39 | hospit offici said oust leader suffer renal cardiac pulmonari failur
+sent_40 | marco wife imelda broadcast appeal friday mr aquino allow husband die homeland support threaten mass protest request reject
+sent_41 | mr aquino refus withdraw ban marco philippin suprem court reject petit former presid lawyer juan david order return
+sent_42 | marco live hawaii sinc oust three year ago popular upris propel mr aquino power
+sent_43 | would like first convey famili mr marco pray still recov latest critic ill mr aquino said
+sent_44 | regret much possibl us allow return
+sent_45 | said said past allow remain brought back alreadi taken plan avoid untoward incid
+sent_46 | mr aquino whose govern surviv six coup attempt cite nation secur refus previou request
+sent_47 | statement broadcast pro-marco radio station mr marco said tri telephon mr aquino hawaii told presid busi
+sent_48 | maria elena cruz mr aquino daughter person secretari said presid receiv call mr marco
+sent_49 | mr marco said tri contact presid make last appeal madam corazon aquino open heart let ferdinand come home seriou condit
+sent_50 | countrymen appeal everi one pray hope mr aquino know bring home marco bring true reconcili true peac uniti countri mr marco said
+sent_51 | what best countri
+sent_52 | mr aquino said earlier regret inform mr marco inde ask reconsider said past much agre mr marco right still consid also right interest million filipino
+sent_53 | told mr aquino statement mr marco said awar believ optimist
+sent_54 | know miracl happen
+sent_55 | marco support meanwhil announc would hold ralli saturday pray recoveri
+sent_56 | pro-marco leader warn former presid death exil would trigger demonstr
+sent_57 | expect tactic allianc nationwid mass action said pro-marco lawyer oliv lozano
+sent_58 | refer tactic allianc militari labor sector student sector
+sent_59 | chief staff gen renato de villa said arm forc would accept mr aquino decis prepar block attempt opposit foment troubl
+sent_60 | everyth power see law order prevail de villa told report
+sent_61 | follow decis execut branch
+sent_62 | presid corazon aquino philippin monday ask govern industri leader expand econom tie nation
+sent_63 | mr aquino first stop weeklong three-nat european tour met west german presid richard von weizsaeck foreign minist hans-dietrich genscher offici
+sent_64 | mr aquino compar task strengthen heavili indebt philippin economi recoveri west germani world war ii ask germani share experi homeland
+sent_65 | tri sound fiscal polici buy recoveri price inflat debt relief price nation honor said speech west german chamber industri trade
+sent_66 | paid care attent consequ runaway inflat devalu germani light experi war said
+sent_67 | mr aquino said philippin debt project increas 29 billion year end much money fact stolen previou govern oust dictat ferdinand marco
+sent_68 | said sinc govern took 1986 countri growth rate minu 10 percent marco 1985 improv rate plu 6 7 percent 1988
+sent_69 | need complet equat two element essenti german recoveri   debt relief invest mr aquino said
+sent_70 | state banquet even weizsaeck told mr aquino visit would strengthen relat west germani philippin
+sent_71 | weizsaeck said philippin good result trade west germani assur mr aquino barrier-fre market european econom commun plan 1992 lock trade countri
+sent_72 | mr aquino arriv west germani sunday meet chancellor helmut kohl tuesday depart pari
+sent_73 | also visit belgium
+sent_74 | resign land reform secretari rais doubt presid corazon aquino commit agrarian reform dramat conflict govern critic lack vision
+sent_75 | controversi climax thursday resign secretary-design florencio abad 35 whose nomin oppos pro-aquino struggl democrat filipino parti
+sent_76 | handl controversi highlight inconsist mr aquino critic lack clear prioriti tactic blunder strong influenc rel nation polici
+sent_77 | also reinforc suspicion among liber rhetor mr aquino share deep commit social chang expect took power 1986 peopl power upris late ferdinand marco
+sent_78 | sincer corazon aquino serious question wrote columnist ninez cacho-olivar philippin daili inquir
+sent_79 | land reform centerpiec program administr dead
+sent_80 | abad troubl began februari tri unsuccess block leas govern land cavit provinc japan marubeni corp industri park
+sent_81 | although deal approv nation develop corp abad former congressman said land distribut peasant agrarian reform program
+sent_82 | depart trade industri said marubeni deal crucial attract much-need foreign invest govern industri program
+sent_83 | depart agrarian reform said cavit land exempt hundr landlord would tri properti declar potenti industri site avoid lose titl
+sent_84 | presidenti staff final work compromis farmer would offer either land cash settlement
+sent_85 | abad reluctantli agre formula repeat order mr aquino
+sent_86 | abad firm stand howev alarm landown congress float rumor press agrarian reform depart riddl communist
+sent_87 | lawmak commiss appoint belong pro-aquino struggl democrat filipino parti block abad confirm eight hear final resign
+sent_88 | despit parti victori poltic damag mr aquino consider
+sent_89 | manila press transform abad folk hero depict champion farmer polit baron struggl democrat filipino parti dub landlord-domin parti
+sent_90 | worri abad destini mr presid wrote columnist carol arguilla manila chronicl
+sent_91 | worri blew last chanc liber support
+sent_92 | mr aquino pledg publicli work abad confirm lobbi appear ineffectu
+sent_93 | abad strongest oppon includ politician consist support mr aquino lead specul disappoint depart
+sent_94 | abad oppon includ younger brother rep jose pepe cojuangco wield consider influenc govern
+sent_95 | way cori aquino challeng pepe said one western diplomat speak condit anonym
+sent_96 | mr aquino come landlord famili
+sent_97 | brother sister partner 14 500-acr sugar plantat tarlac provinc
+sent_98 | rather break estat use legal option creat profit-shar plan tenant
+sent_99 | abad controversi latest seri blow agrarian reform program tout centerpiec administr
+sent_100 | last year agrarian reform secretari philip juico resign disclosur depart paid vastli inflat sum margin land
+sent_101 | successor miriam defensor santiago repeatedli reject commiss appoint reappoint mr aquino replac abad dec 31
+sent_102 | reason chang given
+sent_103 | mr santiago claim display suffici public loyalti mr aquino coup attempt earli decemb
+sent_104 | agrarian reform wide seen mean break power landlord famili uplift livelihood million peasant
+sent_105 | program advertis essenti curb 21-year-old rural-bas marxist insurg
+sent_106 | mr aquino proclaim land reform program 1987 left detail congress
+sent_107 | final bill contain mani pro-landlord loophol sever origin sponsor includ abad vote
+sent_108 | presid corazon aquino today revers long-held polici said will negoti cease-fir communist guerrilla former soldier stage coup attempt
+sent_109 | mr aquino also invit opposit join talk includ outspoken critic sen juan ponc enril
+sent_110 | manila rock almost daili explos
+sent_111 | although one claim respons blast govern blame former soldier repeatedli tri toppl mr aquino coup attempt
+sent_112 | communist rebel wage 21-year rebellion establish marxist state
+sent_113 | last cease-fir collaps earli 1987
+sent_114 | sen wigberto tanada call truce govern communist rebel major earthquak philippin juli 16 mr aquino reject propos
+sent_115 | tuesday pro-aquino senat orlando mercado urg mr aquino put asid differ polit foe begin discuss nation secur problem econom woe
+sent_116 | enril said will reconcil mr aquino fire defens minist implic coup attempt novemb 1986
+sent_117 | mr aquino said statement today mercado enril welcom join discuss held committe cabinet member
+sent_118 | defens secretari fidel ramo adamantli refus cease-fir communist guerrilla sinc novemb 1986 aquino govern negoti rebel 60-day truce
+sent_119 | ramo member cabinet committe credit crush six coup attempt mr aquino
+sent_120 | communist accus whip threat anoth coup attempt mr aquino civilian leadership would becom indebt
+sent_121 | ramo deni alleg
+sent_122 | last cease-fir rebel collaps januari 1987 troop fire farmer demonstr outsid mr aquino offic land reform

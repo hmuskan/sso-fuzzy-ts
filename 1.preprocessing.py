@@ -15,7 +15,7 @@ for enum,file in enumerate(os.listdir(path_inp1)):
     text = root.findall('TEXT')[0].text.replace("\n", " ").strip()
     data.append(sent_tokenize(text))
 
-print(data)
+#print(data)
 f = open('./0.dataset raw/1.txt','w')
 fdata = ""
 for d in data:
@@ -30,7 +30,7 @@ for enum,file in enumerate(os.listdir(path_inp2)):
     tree = ET.parse(path_inp2+file)
     root = tree.getroot()
     text = root.text.replace("\n", " ").strip()
-    print(text)
+    #print(text)
     data.append(sent_tokenize(text))
 
 num = len(data[0])
