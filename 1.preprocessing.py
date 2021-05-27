@@ -10,9 +10,14 @@ path_inp1 = './0.data/docs/'
 data = []
 for enum,file in enumerate(os.listdir(path_inp1)):
     print(file,end=' ')
-    tree = ET.parse(path_inp1+file)
-    root = tree.getroot()
-    text = root.findall('TEXT')[0].text.replace("\n", " ").strip()
+    try:
+        tree = ET.parse(path_inp1+file)
+        root = tree.getroot()
+        text = root.findall('TEXT')[0].text.replace("\n", " ").strip()
+    except Exception:
+        fd = open(path_inp1+file)
+        text = fd.read()
+        fd.close()
     data.append(sent_tokenize(text))
 
 #print(data)
@@ -27,9 +32,14 @@ path_inp2 = './0.data/summary/'
 data = []
 for enum,file in enumerate(os.listdir(path_inp2)):
     print(file,end=' ')
-    tree = ET.parse(path_inp2+file)
-    root = tree.getroot()
-    text = root.text.replace("\n", " ").strip()
+    try:
+        tree = ET.parse(path_inp2+file)
+        root = tree.getroot()
+        text = root.text.replace("\n", " ").strip()
+    except Exception:
+        fd = open(path_inp2+file)
+        text = fd.read()
+        fd.close()
     #print(text)
     data.append(sent_tokenize(text))
 

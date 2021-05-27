@@ -1,123 +1,183 @@
-title   | presid corazon aquino agre allow ferdinand marco return philippin govern tri charg steal billion dollar newspap said saturday
-sent_01 | manila bulletin manila chronicl quot mr aquino press secretari teodoro benigno say mr aquino made assur two swiss lawyer visit switzerland earlier month
-sent_02 | report say crimin charg marco aquino oust predecessor file mr aquino allow return
-sent_03 | mr aquino refus allow marco philippin cite secur reason
-sent_04 | marco live exil hawaii
-sent_05 | mr aquino govern said file crimin charg marco accus steal 10 billion govern fund
-sent_06 | govern done mr aquino refus let marco enter countri
-sent_07 | philippin law allow trial absentia
-sent_08 | swiss lawyer help philippin govern trace money marco famili allegedli place swiss bank account
-sent_09 | marco live hawaii sinc toppl civilian-militari revolt swept mr aquino power februari 1986
-sent_010 | swiss govern frozen asset marco associ releas inform philippin govern legal challeng pose marco lawyer swiss bank
-sent_11 | unidentifi swiss lawyer said inform turn unless assur formal charg file benigno quot say
-sent_12 | swiss law allow lift bank secreci law case crimin prosecut
-sent_13 | mr aquino said would allow marco return famili swore allegi govern return money allegedli stole 20-year rule
-sent_14 | said later would abid court decis marco lawyer philippin rais matter return court
-sent_15 | benigno quot say mr aquino accept possibl marco return home
-sent_16 | presid corazon aquino said today allow ferdinand marco come home die govern permit oust presid buri philippin soil
-sent_17 | marco wife imelda appeal today mr aquino open heart allow former presid return
-sent_18 | marco lawyer also ask philippin suprem court order return pledg oust leader would cooper aquino administr
-sent_19 | marco report critic condit today honolulu hospit undergo emerg kidney surgeri
-sent_20 | hospit offici said 71-year-old former philippin leader suffer renal cardiac pulmonari failur
-sent_21 | honolulu marco aid arturo aruiza said imelda left hospit make final appeal mr aquino allow husband die homeland
-sent_22 | mr aquino daughter maria elena cruz said presid receiv call mr marco
-sent_23 | mr cruz serv mother secretari
-sent_24 | statement broadcast today pro-marco radio station dzec imelda said tri contact presidenti offic make last appeal madam corazon aquino open heart let ferdinand come home seriou condit
-sent_25 | reconcili what best countri imelda said
-sent_26 | id like ask peopl pray marco may continu live
-sent_27 | mr aquino told report earlier sorri hear marco condit deterior pray abl recov
-sent_28 | regret inform mr marco inde ask reconsider said past much agre mr marco right still consid also right interest million filipino mr aquino said
-sent_29 | alreadi said past allow remain brought back alreadi taken plan avoid untoward incid ad
-sent_30 | mr aquino succeed marco 1986 upris toppl administr forc exil hawaii
-sent_31 | today manila stock exchang composit index fell 1 084 53 thursday close 1 102 97
-sent_32 | trader said rumor marco death trigger sell wave shortli noon
-sent_33 | honolulu marco aid arturo aruiza said mr marco plan make one last appeal mr aquino allow husband return home
-sent_34 | rafael ileto mr aquino nation secur advisor said grant request still option doubt much one solut
-sent_35 | ileto met mr aquino half-hour today said marco longer pose threat nation follow caus disrupt normal function
-sent_36 | ileto retir vice chief staff former defens minist said 160 000-member arm forc capabl quell unrest marco support
-sent_37 | presid corazon aquino friday refus allow ferdinand marco return home die said govern wont permit buri despit last appeal wife
-sent_38 | 71-year-old marco critic condit friday honolulu hospit emerg kidney surgeri
-sent_39 | hospit offici said oust leader suffer renal cardiac pulmonari failur
-sent_40 | marco wife imelda broadcast appeal friday mr aquino allow husband die homeland support threaten mass protest request reject
-sent_41 | mr aquino refus withdraw ban marco philippin suprem court reject petit former presid lawyer juan david order return
-sent_42 | marco live hawaii sinc oust three year ago popular upris propel mr aquino power
-sent_43 | would like first convey famili mr marco pray still recov latest critic ill mr aquino said
-sent_44 | regret much possibl us allow return
-sent_45 | said said past allow remain brought back alreadi taken plan avoid untoward incid
-sent_46 | mr aquino whose govern surviv six coup attempt cite nation secur refus previou request
-sent_47 | statement broadcast pro-marco radio station mr marco said tri telephon mr aquino hawaii told presid busi
-sent_48 | maria elena cruz mr aquino daughter person secretari said presid receiv call mr marco
-sent_49 | mr marco said tri contact presid make last appeal madam corazon aquino open heart let ferdinand come home seriou condit
-sent_50 | countrymen appeal everi one pray hope mr aquino know bring home marco bring true reconcili true peac uniti countri mr marco said
-sent_51 | what best countri
-sent_52 | mr aquino said earlier regret inform mr marco inde ask reconsider said past much agre mr marco right still consid also right interest million filipino
-sent_53 | told mr aquino statement mr marco said awar believ optimist
-sent_54 | know miracl happen
-sent_55 | marco support meanwhil announc would hold ralli saturday pray recoveri
-sent_56 | pro-marco leader warn former presid death exil would trigger demonstr
-sent_57 | expect tactic allianc nationwid mass action said pro-marco lawyer oliv lozano
-sent_58 | refer tactic allianc militari labor sector student sector
-sent_59 | chief staff gen renato de villa said arm forc would accept mr aquino decis prepar block attempt opposit foment troubl
-sent_60 | everyth power see law order prevail de villa told report
-sent_61 | follow decis execut branch
-sent_62 | presid corazon aquino philippin monday ask govern industri leader expand econom tie nation
-sent_63 | mr aquino first stop weeklong three-nat european tour met west german presid richard von weizsaeck foreign minist hans-dietrich genscher offici
-sent_64 | mr aquino compar task strengthen heavili indebt philippin economi recoveri west germani world war ii ask germani share experi homeland
-sent_65 | tri sound fiscal polici buy recoveri price inflat debt relief price nation honor said speech west german chamber industri trade
-sent_66 | paid care attent consequ runaway inflat devalu germani light experi war said
-sent_67 | mr aquino said philippin debt project increas 29 billion year end much money fact stolen previou govern oust dictat ferdinand marco
-sent_68 | said sinc govern took 1986 countri growth rate minu 10 percent marco 1985 improv rate plu 6 7 percent 1988
-sent_69 | need complet equat two element essenti german recoveri   debt relief invest mr aquino said
-sent_70 | state banquet even weizsaeck told mr aquino visit would strengthen relat west germani philippin
-sent_71 | weizsaeck said philippin good result trade west germani assur mr aquino barrier-fre market european econom commun plan 1992 lock trade countri
-sent_72 | mr aquino arriv west germani sunday meet chancellor helmut kohl tuesday depart pari
-sent_73 | also visit belgium
-sent_74 | resign land reform secretari rais doubt presid corazon aquino commit agrarian reform dramat conflict govern critic lack vision
-sent_75 | controversi climax thursday resign secretary-design florencio abad 35 whose nomin oppos pro-aquino struggl democrat filipino parti
-sent_76 | handl controversi highlight inconsist mr aquino critic lack clear prioriti tactic blunder strong influenc rel nation polici
-sent_77 | also reinforc suspicion among liber rhetor mr aquino share deep commit social chang expect took power 1986 peopl power upris late ferdinand marco
-sent_78 | sincer corazon aquino serious question wrote columnist ninez cacho-olivar philippin daili inquir
-sent_79 | land reform centerpiec program administr dead
-sent_80 | abad troubl began februari tri unsuccess block leas govern land cavit provinc japan marubeni corp industri park
-sent_81 | although deal approv nation develop corp abad former congressman said land distribut peasant agrarian reform program
-sent_82 | depart trade industri said marubeni deal crucial attract much-need foreign invest govern industri program
-sent_83 | depart agrarian reform said cavit land exempt hundr landlord would tri properti declar potenti industri site avoid lose titl
-sent_84 | presidenti staff final work compromis farmer would offer either land cash settlement
-sent_85 | abad reluctantli agre formula repeat order mr aquino
-sent_86 | abad firm stand howev alarm landown congress float rumor press agrarian reform depart riddl communist
-sent_87 | lawmak commiss appoint belong pro-aquino struggl democrat filipino parti block abad confirm eight hear final resign
-sent_88 | despit parti victori poltic damag mr aquino consider
-sent_89 | manila press transform abad folk hero depict champion farmer polit baron struggl democrat filipino parti dub landlord-domin parti
-sent_90 | worri abad destini mr presid wrote columnist carol arguilla manila chronicl
-sent_91 | worri blew last chanc liber support
-sent_92 | mr aquino pledg publicli work abad confirm lobbi appear ineffectu
-sent_93 | abad strongest oppon includ politician consist support mr aquino lead specul disappoint depart
-sent_94 | abad oppon includ younger brother rep jose pepe cojuangco wield consider influenc govern
-sent_95 | way cori aquino challeng pepe said one western diplomat speak condit anonym
-sent_96 | mr aquino come landlord famili
-sent_97 | brother sister partner 14 500-acr sugar plantat tarlac provinc
-sent_98 | rather break estat use legal option creat profit-shar plan tenant
-sent_99 | abad controversi latest seri blow agrarian reform program tout centerpiec administr
-sent_100 | last year agrarian reform secretari philip juico resign disclosur depart paid vastli inflat sum margin land
-sent_101 | successor miriam defensor santiago repeatedli reject commiss appoint reappoint mr aquino replac abad dec 31
-sent_102 | reason chang given
-sent_103 | mr santiago claim display suffici public loyalti mr aquino coup attempt earli decemb
-sent_104 | agrarian reform wide seen mean break power landlord famili uplift livelihood million peasant
-sent_105 | program advertis essenti curb 21-year-old rural-bas marxist insurg
-sent_106 | mr aquino proclaim land reform program 1987 left detail congress
-sent_107 | final bill contain mani pro-landlord loophol sever origin sponsor includ abad vote
-sent_108 | presid corazon aquino today revers long-held polici said will negoti cease-fir communist guerrilla former soldier stage coup attempt
-sent_109 | mr aquino also invit opposit join talk includ outspoken critic sen juan ponc enril
-sent_110 | manila rock almost daili explos
-sent_111 | although one claim respons blast govern blame former soldier repeatedli tri toppl mr aquino coup attempt
-sent_112 | communist rebel wage 21-year rebellion establish marxist state
-sent_113 | last cease-fir collaps earli 1987
-sent_114 | sen wigberto tanada call truce govern communist rebel major earthquak philippin juli 16 mr aquino reject propos
-sent_115 | tuesday pro-aquino senat orlando mercado urg mr aquino put asid differ polit foe begin discuss nation secur problem econom woe
-sent_116 | enril said will reconcil mr aquino fire defens minist implic coup attempt novemb 1986
-sent_117 | mr aquino said statement today mercado enril welcom join discuss held committe cabinet member
-sent_118 | defens secretari fidel ramo adamantli refus cease-fir communist guerrilla sinc novemb 1986 aquino govern negoti rebel 60-day truce
-sent_119 | ramo member cabinet committe credit crush six coup attempt mr aquino
-sent_120 | communist accus whip threat anoth coup attempt mr aquino civilian leadership would becom indebt
-sent_121 | ramo deni alleg
-sent_122 | last cease-fir rebel collaps januari 1987 troop fire farmer demonstr outsid mr aquino offic land reform
+title   | cambodia two-parti opposit ask asian develop bank monday stop provid loan incumb govern call illeg
+sent_01 | negoti form next govern becom deadlock opposit parti leader princ norodom ranariddh sam rainsi countri follow threat arrest strongman hun sen hun sen complain monday opposit tri make member return intern issu
+sent_02 | hun sen rule parti narrowli major elect juli opposit   claim widespread intimid fraud   deni hun sen two-third vote parliament requir approv next govern
+sent_03 | meanwhil say old govern hold power illeg
+sent_04 | ranariddh sam rainsi renew intern lobbi campaign old govern monday letter adb presid mitsuo sato call bank stop lend money
+sent_05 | respect advis asian develop bank provid new loan current regim cambodia two parti leader wrote
+sent_06 | best current regim could consid caretak govern approv nation assembl
+sent_07 | meet hun sen new french ambassador cambodia hun sen aid prak sokhonn said cambodian leader repeat call opposit return express concern intern commun may ask secur guarante
+sent_08 | report attempt internation return member parliament excus secur problem prak sokhonn said
+sent_09 | opposit politician want unit nation help guarante safe return
+sent_010 | u n secretary-gener repres offic phnom penh provid monitor opposit politician return cambodia particip juli elect
+sent_11 | monitor end sept 30
+sent_12 | offic receiv offici request oper start u n diplomat jonathan prentic said monday reaction prak sokhonn statement
+sent_13 | opposit insist talk next govern must take place outsid countri rule parti reject alleg intimid recent guarante opposit member safeti insid countri
+sent_14 | diplomat effort reviv stall talk appear bear fruit monday japanes foreign affair secretari state nobutaka machimura said king norodom sihanouk call ranariddh sam rainsi return cambodia
+sent_15 | less two week abandon hope could influenc parti reach compromis sihanouk strongli interest presid summit meet three parti leader cambodia machimura said
+sent_16 | cambodia rule parti respond tuesday critic leader u congress lengthi defens strongman hun sen human right record
+sent_17 | cambodian peopl parti critic non-bind resolut pass earlier month u hous repres call investig violat intern humanitarian law allegedli commit hun sen event mention resolut includ hun sen coup last year co-prim minist princ norodom ranariddh violent crackdown septemb anti-govern demonstr
+sent_18 | copi resolut sinc submit u senat committe foreign relat
+sent_19 | cpp would like launch appeal u senat wise realist consid draft resolut give justic cpp hun sen cambodian peopl approv parti said statement
+sent_20 | defend hun sen ouster ranariddh proper respons princ attempt time negoti defect senior khmer roug rebel
+sent_21 | also repeat claim princ parti move rebel soldier phnom penh content remain unprov
+sent_22 | kill nearli 100 ranariddh support document u n human right worker aftermath coup dismiss cpp mostli fabric meant distort polit situat
+sent_23 | ranariddh core support return cambodia month elect juli year rule parti narrowli
+sent_24 | ranariddh opposit alli sam rainsi refus accept elect result alleg widespread intimid fraud cpp
+sent_25 | claim dismiss hun sen-friendli court ralli support street phnom penh
+sent_26 | two week toler demonstr hun sen order violent crackdown result death least four protest
+sent_27 | u n human right worker later discov 20 bodi   mani bear sign tortur   around capit prompt specul death toll could much higher
+sent_28 | rule parti support polic action statement note public properti damag protest grenad thrown hun sen home sam rainsi suggest speech u govern fire cruis missil hun sen
+sent_29 | opposit claim grenad attack stage excus begin crackdown
+sent_30 | leader illeg demonstr one must bear respons consequ deriv protest cpp said tuesday refer deadli violenc minor incid
+sent_31 | rule parti also remind unit state washington support cambodian exil govern domin brutal khmer roug 1980
+sent_32 | khmer roug respons death mani 2 million peopl guerrilla group 1975 79 rule cambodia
+sent_33 | seri border clash khmer roug oust power invad vietnames armi set surrog cambodian communist govern later led hun sen
+sent_34 | rule parti accus u policy-mak take time action save cambodian peopl khmer roug
+sent_35 | must make unjust accus led struggl liber peopl genocid ad
+sent_36 | cambodia lead opposit parti rule share presid parliament arch foe saturday insist alon must occupi top posit legisl bodi
+sent_37 | disput presid major stumbl block talk two-parti opposit bloc cambodian peopl parti form new govern
+sent_38 | cambodian leader hun sen head cpp offer share legislatur top job royalist funcinpec parti princ norodom ranariddh order break impass
+sent_39 | princ parti statement date friday seen saturday said scenario unconstitut
+sent_40 | co-shar anyth cpp mean surrend full power
+sent_41 | furthermor propos unconstitut fax statement said
+sent_42 | royalist parti also reject hun sen call hold bilater talk insist ranariddh main alli sam rainsi also includ
+sent_43 | parti seat nation assembl left transpar check balanc system use govern statement said ad sam rainsi parti also given chairmanship one nation assembl nine commiss
+sent_44 | note funcinpec allow cpp hold presid despit win 1993 gener elect statement said turn take post
+sent_45 | recent elect held juli hun sen parti collect 64 122 parliamentari seat short two-third major need set new govern
+sent_46 | fear arrest mani opposit member parliament left cambodia ceremoni open nation assembl sep 24
+sent_47 | seri negoti forg new govern fail
+sent_48 | talk complic cpp-funcinpec quarrel parliament top job
+sent_49 | hun sen parti recent call ranariddh return negoti tabl said will make appropri concess break deadlock form govern
+sent_50 | funcinpec demand hun sen written guarante safeti member activ precondit re-ent negoti
+sent_51 | cambodian leader hun sen guarante safeti polit freedom politician tri eas fear rival arrest kill return countri
+sent_52 | assur aim especi sam rainsi leader vocal anti-hun sen opposit parti forc take refug u n offic septemb avoid arrest hun sen accus behind plot life
+sent_53 | sam rainsi 14 member parliament parti hole oversea two month
+sent_54 | deal reach hun sen chief rival princ norodom ranariddh form new govern last week open door return
+sent_55 | letter king norodom sihanouk   princ father cambodia head state   broadcast televis tuesday hun sen said guarante safeti extend ranariddh appli politician
+sent_56 | assur come week first session cambodia new parliament nation assembl
+sent_57 | sam rainsi said wednesday unsatisfi guarante
+sent_58 | said contain indirect languag loophol suggest sam rainsi parti member still threat arrest hun sen rule parti
+sent_59 | easi say rainsi srp member assembl charg arrest opposit leader said statement
+sent_60 | instead make roundabout statement full loophol easili exploit legal system complet control
+sent_61 | ranariddh told report wednesday believ safe sam rainsi cambodia
+sent_62 | speak upon return brief stay bangkok princ said would soon meet hun sen discuss apport ministri new coalit govern
+sent_63 | last week hun sen cambodian peopl parti ranariddh funcinpec parti agre form coalit would leav hun sen sole prime minist make princ presid nation assembl
+sent_64 | deal assur two-third vote parliament need approv new govern
+sent_65 | men serv co-prim minist hun sen overthrew ranariddh coup last year
+sent_66 | think hun sen got everyth
+sent_67 | he got premiership legitimaci elect recognit majesti king
+sent_68 | dont think benefit hun sen caus instabl countri ranariddh said
+sent_69 | princ also said top gener nhek bunchhay would given back previou posit second-rank gener cambodian militari gener staff
+sent_70 | nhek bunchhay outnumb forc capit put tough unsuccess resist last year coup
+sent_71 | cambodia bicker polit parti broke three-month deadlock friday agre coalit govern leav strongman hun sen sole prime minist king norodom sihanouk announc
+sent_72 | long-elus compromis opposit leader princ norodom ranariddh becom presid nation assembl result disput elect juli even though hun sen parti hold major 64 seat 122-member chamber
+sent_73 | hun sen cambodian peopl parti drop insist joint assembl chairmanship share ranariddh parti boss chea sim current speaker
+sent_74 | one main stumbl block month discord
+sent_75 | instead sihanouk announc constitut modifi creat new senat chea sim head
+sent_76 | chea sim still serv act head state king frequent absenc countri
+sent_77 | major polit crisi countri resolv polit deadlock face nation also come end king said statement
+sent_78 | senat initi appoint king
+sent_79 | agreement say mani seat would would divid
+sent_80 | parti hammer detail later
+sent_81 | pok one ranariddh negoti said senat would serv mostli advisori role assembl
+sent_82 | senior senat leader join assembl prime minist countri top two buddhist monk delic balanc power council choos cambodia next king sihanouk die
+sent_83 | two parti said assembl would conven nov 25
+sent_84 | agreement came surprisingli quickli follow ranariddh return thursday thailand hole opposit figur week amid fear safeti stay cambodia
+sent_85 | deal allow rapid format govern cpp ranariddh royalist funcinpec allow intern donor busi oper poverty-stricken countri desper need aid
+sent_86 | could also hasten cambodia entri associ southeast asian nation put hold last year hun sen depos ranariddh co-prim minist bloodi coup
+sent_87 | earlier side arriv royal palac second day meet sihanouk said agre principl form coalit made import concess
+sent_88 | king sole forc cambodian polit abl broker deal pressur side reach agreement leav saturday medic treatment beij
+sent_89 | sihanouk report hun sen respond posit request ranariddh five key support receiv polit pardon
+sent_90 | five convict polit crime court wide seen loyal hun sen
+sent_91 | king power grant pardon await agreement hun sen polit sensit case
+sent_92 | former battlefield enemi cpp funcinpec loggerhead sinc cpp narrowli parliamentari elect juli
+sent_93 | vote fail put end instabl follow last year coup
+sent_94 | cpp fell short two-third major need form govern alon
+sent_95 | ranariddh parti opposit alli sam rainsi held back support claim cpp due fraud intimid
+sent_96 | opposit organ protest phnom penh seek hun sen ouster violent dispers
+sent_97 | sam rainsi investig phnom penh court role demonstr remain abroad
+sent_98 | 15 seat 122-seat assembl irrelev form work govern
+sent_99 | king norodom sihanouk tuesday prais agreement cambodia top two polit parti   previous bitter rival   form coalit govern led strongman hun sen
+sent_100 | short letter sent news agenc king said receiv copi cooper agreement sign monday place hun sen cambodian peopl parti firm control fiscal administr function govern
+sent_101 | protocol cooper cpp funcinpec certainli bring peac progress nation peopl sihanouk wrote
+sent_102 | uncompromis enemi month ago hun sen funcinpec presid princ norodom ranariddh agre nov 13 form govern summit conven sihanouk
+sent_103 | deal make hun sen prime minist ranariddh presid nation assembl end three month polit deadlock follow juli elect narrowli hun sen key agreement format senat upper hous parliament led cpp presid chea sim outgo head nation assembl
+sent_104 | sihanouk recal procedur use past govern suggest tuesday appoint first two member upper hous
+sent_105 | remain senat said select method agre upon new govern nation assembl
+sent_106 | hun sen said monday cpp funcinpec agre senat would half larg 122-seat nation assembl
+sent_107 | detail senat includ much power given promulg legisl yet iron two parti
+sent_108 | king norodom sihanouk declin request chair summit cambodia top polit leader say meet would bring progress deadlock negoti form govern
+sent_109 | cambodian leader hun sen rule parti two-parti opposit call monarch lead top-level talk disagre locat
+sent_110 | papa presid summit meet three parti whether held phnom penh beij meet certainli achiev result sihanouk wrote oct 17 letter son princ norodom ranariddh leader senior opposit funcinpec parti
+sent_111 | copi letter obtain thursday
+sent_112 | king call three parti make compromis end stalem papa would like ask three parti take respons nation peopl
+sent_113 | hun sen use thursday anniversari peac agreement end countri civil war pressur opposit form coalit govern parti
+sent_114 | want prolong anarchi instabl prevent effort set new govern hun sen said televis speech mark anniversari 1991 pari peac accord
+sent_115 | hun sen parti 64 122 seat parliament juli nation elect two-third major necessari form govern
+sent_116 | opposit parti led ranariddh former financ minist sam ram rainsi refus enter coalit hun sen alleg elect fraud thoroughli investig
+sent_117 | intern monitor said elect rel free fair
+sent_118 | hun sen said current govern would remain power long opposit refus form new one
+sent_119 | ranariddh sam rainsi remain outsid countri sinc sept 24 ceremoni conven parliament
+sent_120 | cite hun sen threat arrest opposit politician follow two alleg attempt life ranariddh sam rainsi said feel safe negoti insid countri ask king chair summit resid beij
+sent_121 | hun sen reject opposit reserv say would inappropri hold summit outsid countri
+sent_122 | negoti far prove fruitless except open parliament sept 22 summit led king
+sent_123 | hun sen impli thursday opposit fail follow promis made summit
+sent_124 | result strictli respect seem reason hold anoth summit hun sen said speech anniversari 1991 pari peac accord
+sent_125 | sihanouk reportedli set fli beij next month receiv medic treatment chines doctor
+sent_126 | 75-year-old monarch suffer varieti ailment period make extend trip beij
+sent_127 | diagnos colon cancer 1993 sinc gone remiss
+sent_128 | septemb thousand peopl fill street phnom penh protest alleg elect fraud
+sent_129 | hun sen order polic break demonstr
+sent_130 | least four demonstr kill polic discoveri 20 bodi aftermath prompt specul death talli could much higher
+sent_131 | speech hun sen blame violenc opposit leader say demonstr instig social econom chao
+sent_132 | cambodian politician express hope monday new partnership parti strongman hun sen rival princ norodom ranariddh coalit govern would end violenc
+sent_133 | hun sen ranariddh co-prim minist coalit form 1993 landmark u n sponsor elect often clash power-shar integr guerrilla fighter crumbl khmer roug
+sent_134 | argument turn bloodi last year hun sen oust ranariddh coup
+sent_135 | princ fled cambodia return month elect juli
+sent_136 | hun sen cambodian peopl parti narrowli poll strong second-plac finish ranariddh funcinpec gave royalist parti leverag post-elect negoti
+sent_137 | three-month impass agre last week coalit deal make hun sen sole prime minist ranariddh presid nation assembl
+sent_138 | repetit 1993 two prime minist said hun sen aid prak sokhon attend last week summit
+sent_139 | two prime minist everyth move slowli decis made polit technic
+sent_140 | ranariddh said saturday two parti agre keep ministri interior defens co-minist
+sent_141 | senior funcinpec offici ahmad yahya reveal monday also agre cpp would control foreign affair financ portfolio
+sent_142 | funcinpec take justic inform
+sent_143 | parti form work group week divid remain govern post draft constitut amend form new senat
+sent_144 | hun sen ranariddh schedul meet nov 23   two day parliament reopen   review result work group give final approv ahmad yahya said
+sent_145 | abil repair relationship work togeth key stabl coalit
+sent_146 | consid remarriag ahmad yahya said
+sent_147 | care way work say
+sent_148 | compromis achiev result
+sent_149 | ranariddh alli sam rainsi whose parti place distant third elect left last week deal
+sent_150 | sam rainsi virul critic hun sen parti 14 member parliament remain outsid cambodia sinc septemb amid fear secur
+sent_151 | letter king norodom sihanouk releas monday sam rainsi complain hun sen respond queri secur make unsaf peopl return reconven parliament
+sent_152 | sam rainsi said told ranariddh parti former khmer roug guerrilla implic hun sen rocket attack sept 24 open parliament
+sent_153 | author call assassin attempt hun sen polic gener investig attack said monday like suspect identifi would reveal name polit affili
+sent_154 | worri parti colleagu still face arrest polit opposit leader sam rainsi sought clarif friday secur guarante promis strongman hun sen sam rainsi wrote letter king norodom sihanouk eager attend first session new nation assembl nov 25 complain hun sen assur strong enough eas concern parti member may arrest upon return cambodia
+sent_155 | hun sen announc govern guarante wednesday politician safeti right conduct polit activ accord law forc
+sent_156 | sam rainsi earlier call hun sen statement full loophol ask sihanouk help obtain promis hun sen member sam rainsi parti free prosecut polit activ last juli elect
+sent_157 | sam rainsi staunch critic hun sen forc take refug u n offic septemb avoid arrest hun sen accus behind plot life
+sent_158 | alleg assassin attempt came massiv street demonstr organ opposit hun sen cambodian peopl parti narrowli elect
+sent_159 | opposit alleg widespread fraud intimid refus accept result poll
+sent_160 | fear safeti sam rainsi then-al princ norodom ranariddh led exodu opposit lawmak cambodia parliament ceremoni open late septemb
+sent_161 | ranariddh whose funcinpec parti finish close second elect return last week struck deal hun sen form coalit govern
+sent_162 | agreement make hun sen prime minist ranariddh presid nation assembl
+sent_163 | two parti form three work group hammer detail agreement includ establish senat upper hous parliament
+sent_164 | sok repres hun sen parti said friday one work group complet work joint polit platform implement new govern
+sent_165 | platform said emphas administr econom judici reform sok would reveal detail say hun sen would announc present cabinet choic nation assembl
+sent_166 | cambodian leader hun sen friday reject opposit parti demand talk outsid countri accus tri internation polit crisi
+sent_167 | govern opposit parti ask king norodom sihanouk host summit meet seri post-elect negoti two opposit group hun sen parti form new govern fail
+sent_168 | opposit leader princ norodom ranariddh sam rainsi cite hun sen threat arrest opposit figur two alleg attempt life said could negoti freeli cambodia call talk sihanouk resid beij
+sent_169 | hun sen howev reject
+sent_170 | would like make clear meet relat cambodian affair must conduct kingdom cambodia hun sen told report cabinet meet friday
+sent_171 | no-on internation cambodian affair
+sent_172 | detriment sovereignti cambodia said
+sent_173 | hun sen cambodian peopl parti 64 122 parliamentari seat juli elect short two-third major need form govern
+sent_174 | ranariddh sam rainsi charg hun sen victori elect achiev widespread fraud
+sent_175 | demand thorough investig elect complaint precondit cooper get nation assembl move new govern form
+sent_176 | hun sen said friday opposit concern safeti countri excus stay abroad
+sent_177 | ranariddh sam rainsi outsid countri sinc parliament ceremoni open sep 24
+sent_178 | sam rainsi number opposit figur court investig grenad attack hun sen phnom penh resid sep 7
+sent_179 | hun sen home time attack follow polic crackdown demonstr contest hun sen elect victori
+sent_180 | sam rainsi parti statement releas friday accus hun sen unwil make compromis negoti break deadlock
+sent_181 | meet outsid cambodia suggest opposit could place parti equal foot said statement
+sent_182 | rule parti refus negoti unless abl threaten negoti partner arrest wors
