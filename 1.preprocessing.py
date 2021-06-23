@@ -12,12 +12,20 @@ for enum,file in enumerate(os.listdir(path_inp1)):
     print(file,end=' ')
     try:
         tree = ET.parse(path_inp1+file)
+        print(tree)
         root = tree.getroot()
+        print(root.text)
         text = root.findall('TEXT')[0].text.replace("\n", " ").strip()
     except Exception:
-        fd = open(path_inp1+file)
-        text = fd.read()
-        fd.close()
+        try:
+            tex = root.findall('.//P')
+            text = ""
+            for l in tex:
+                text += l.text.replace("\n", " ").strip()
+        except:
+            fd = open(path_inp1+file)
+            text = fd.read()
+            fd.close()
     data.append(sent_tokenize(text))
 
 #print(data)

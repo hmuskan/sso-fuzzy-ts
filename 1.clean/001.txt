@@ -1,183 +1,203 @@
-title   | cambodia two-parti opposit ask asian develop bank monday stop provid loan incumb govern call illeg
-sent_01 | negoti form next govern becom deadlock opposit parti leader princ norodom ranariddh sam rainsi countri follow threat arrest strongman hun sen hun sen complain monday opposit tri make member return intern issu
-sent_02 | hun sen rule parti narrowli major elect juli opposit   claim widespread intimid fraud   deni hun sen two-third vote parliament requir approv next govern
-sent_03 | meanwhil say old govern hold power illeg
-sent_04 | ranariddh sam rainsi renew intern lobbi campaign old govern monday letter adb presid mitsuo sato call bank stop lend money
-sent_05 | respect advis asian develop bank provid new loan current regim cambodia two parti leader wrote
-sent_06 | best current regim could consid caretak govern approv nation assembl
-sent_07 | meet hun sen new french ambassador cambodia hun sen aid prak sokhonn said cambodian leader repeat call opposit return express concern intern commun may ask secur guarante
-sent_08 | report attempt internation return member parliament excus secur problem prak sokhonn said
-sent_09 | opposit politician want unit nation help guarante safe return
-sent_010 | u n secretary-gener repres offic phnom penh provid monitor opposit politician return cambodia particip juli elect
-sent_11 | monitor end sept 30
-sent_12 | offic receiv offici request oper start u n diplomat jonathan prentic said monday reaction prak sokhonn statement
-sent_13 | opposit insist talk next govern must take place outsid countri rule parti reject alleg intimid recent guarante opposit member safeti insid countri
-sent_14 | diplomat effort reviv stall talk appear bear fruit monday japanes foreign affair secretari state nobutaka machimura said king norodom sihanouk call ranariddh sam rainsi return cambodia
-sent_15 | less two week abandon hope could influenc parti reach compromis sihanouk strongli interest presid summit meet three parti leader cambodia machimura said
-sent_16 | cambodia rule parti respond tuesday critic leader u congress lengthi defens strongman hun sen human right record
-sent_17 | cambodian peopl parti critic non-bind resolut pass earlier month u hous repres call investig violat intern humanitarian law allegedli commit hun sen event mention resolut includ hun sen coup last year co-prim minist princ norodom ranariddh violent crackdown septemb anti-govern demonstr
-sent_18 | copi resolut sinc submit u senat committe foreign relat
-sent_19 | cpp would like launch appeal u senat wise realist consid draft resolut give justic cpp hun sen cambodian peopl approv parti said statement
-sent_20 | defend hun sen ouster ranariddh proper respons princ attempt time negoti defect senior khmer roug rebel
-sent_21 | also repeat claim princ parti move rebel soldier phnom penh content remain unprov
-sent_22 | kill nearli 100 ranariddh support document u n human right worker aftermath coup dismiss cpp mostli fabric meant distort polit situat
-sent_23 | ranariddh core support return cambodia month elect juli year rule parti narrowli
-sent_24 | ranariddh opposit alli sam rainsi refus accept elect result alleg widespread intimid fraud cpp
-sent_25 | claim dismiss hun sen-friendli court ralli support street phnom penh
-sent_26 | two week toler demonstr hun sen order violent crackdown result death least four protest
-sent_27 | u n human right worker later discov 20 bodi   mani bear sign tortur   around capit prompt specul death toll could much higher
-sent_28 | rule parti support polic action statement note public properti damag protest grenad thrown hun sen home sam rainsi suggest speech u govern fire cruis missil hun sen
-sent_29 | opposit claim grenad attack stage excus begin crackdown
-sent_30 | leader illeg demonstr one must bear respons consequ deriv protest cpp said tuesday refer deadli violenc minor incid
-sent_31 | rule parti also remind unit state washington support cambodian exil govern domin brutal khmer roug 1980
-sent_32 | khmer roug respons death mani 2 million peopl guerrilla group 1975 79 rule cambodia
-sent_33 | seri border clash khmer roug oust power invad vietnames armi set surrog cambodian communist govern later led hun sen
-sent_34 | rule parti accus u policy-mak take time action save cambodian peopl khmer roug
-sent_35 | must make unjust accus led struggl liber peopl genocid ad
-sent_36 | cambodia lead opposit parti rule share presid parliament arch foe saturday insist alon must occupi top posit legisl bodi
-sent_37 | disput presid major stumbl block talk two-parti opposit bloc cambodian peopl parti form new govern
-sent_38 | cambodian leader hun sen head cpp offer share legislatur top job royalist funcinpec parti princ norodom ranariddh order break impass
-sent_39 | princ parti statement date friday seen saturday said scenario unconstitut
-sent_40 | co-shar anyth cpp mean surrend full power
-sent_41 | furthermor propos unconstitut fax statement said
-sent_42 | royalist parti also reject hun sen call hold bilater talk insist ranariddh main alli sam rainsi also includ
-sent_43 | parti seat nation assembl left transpar check balanc system use govern statement said ad sam rainsi parti also given chairmanship one nation assembl nine commiss
-sent_44 | note funcinpec allow cpp hold presid despit win 1993 gener elect statement said turn take post
-sent_45 | recent elect held juli hun sen parti collect 64 122 parliamentari seat short two-third major need set new govern
-sent_46 | fear arrest mani opposit member parliament left cambodia ceremoni open nation assembl sep 24
-sent_47 | seri negoti forg new govern fail
-sent_48 | talk complic cpp-funcinpec quarrel parliament top job
-sent_49 | hun sen parti recent call ranariddh return negoti tabl said will make appropri concess break deadlock form govern
-sent_50 | funcinpec demand hun sen written guarante safeti member activ precondit re-ent negoti
-sent_51 | cambodian leader hun sen guarante safeti polit freedom politician tri eas fear rival arrest kill return countri
-sent_52 | assur aim especi sam rainsi leader vocal anti-hun sen opposit parti forc take refug u n offic septemb avoid arrest hun sen accus behind plot life
-sent_53 | sam rainsi 14 member parliament parti hole oversea two month
-sent_54 | deal reach hun sen chief rival princ norodom ranariddh form new govern last week open door return
-sent_55 | letter king norodom sihanouk   princ father cambodia head state   broadcast televis tuesday hun sen said guarante safeti extend ranariddh appli politician
-sent_56 | assur come week first session cambodia new parliament nation assembl
-sent_57 | sam rainsi said wednesday unsatisfi guarante
-sent_58 | said contain indirect languag loophol suggest sam rainsi parti member still threat arrest hun sen rule parti
-sent_59 | easi say rainsi srp member assembl charg arrest opposit leader said statement
-sent_60 | instead make roundabout statement full loophol easili exploit legal system complet control
-sent_61 | ranariddh told report wednesday believ safe sam rainsi cambodia
-sent_62 | speak upon return brief stay bangkok princ said would soon meet hun sen discuss apport ministri new coalit govern
-sent_63 | last week hun sen cambodian peopl parti ranariddh funcinpec parti agre form coalit would leav hun sen sole prime minist make princ presid nation assembl
-sent_64 | deal assur two-third vote parliament need approv new govern
-sent_65 | men serv co-prim minist hun sen overthrew ranariddh coup last year
-sent_66 | think hun sen got everyth
-sent_67 | he got premiership legitimaci elect recognit majesti king
-sent_68 | dont think benefit hun sen caus instabl countri ranariddh said
-sent_69 | princ also said top gener nhek bunchhay would given back previou posit second-rank gener cambodian militari gener staff
-sent_70 | nhek bunchhay outnumb forc capit put tough unsuccess resist last year coup
-sent_71 | cambodia bicker polit parti broke three-month deadlock friday agre coalit govern leav strongman hun sen sole prime minist king norodom sihanouk announc
-sent_72 | long-elus compromis opposit leader princ norodom ranariddh becom presid nation assembl result disput elect juli even though hun sen parti hold major 64 seat 122-member chamber
-sent_73 | hun sen cambodian peopl parti drop insist joint assembl chairmanship share ranariddh parti boss chea sim current speaker
-sent_74 | one main stumbl block month discord
-sent_75 | instead sihanouk announc constitut modifi creat new senat chea sim head
-sent_76 | chea sim still serv act head state king frequent absenc countri
-sent_77 | major polit crisi countri resolv polit deadlock face nation also come end king said statement
-sent_78 | senat initi appoint king
-sent_79 | agreement say mani seat would would divid
-sent_80 | parti hammer detail later
-sent_81 | pok one ranariddh negoti said senat would serv mostli advisori role assembl
-sent_82 | senior senat leader join assembl prime minist countri top two buddhist monk delic balanc power council choos cambodia next king sihanouk die
-sent_83 | two parti said assembl would conven nov 25
-sent_84 | agreement came surprisingli quickli follow ranariddh return thursday thailand hole opposit figur week amid fear safeti stay cambodia
-sent_85 | deal allow rapid format govern cpp ranariddh royalist funcinpec allow intern donor busi oper poverty-stricken countri desper need aid
-sent_86 | could also hasten cambodia entri associ southeast asian nation put hold last year hun sen depos ranariddh co-prim minist bloodi coup
-sent_87 | earlier side arriv royal palac second day meet sihanouk said agre principl form coalit made import concess
-sent_88 | king sole forc cambodian polit abl broker deal pressur side reach agreement leav saturday medic treatment beij
-sent_89 | sihanouk report hun sen respond posit request ranariddh five key support receiv polit pardon
-sent_90 | five convict polit crime court wide seen loyal hun sen
-sent_91 | king power grant pardon await agreement hun sen polit sensit case
-sent_92 | former battlefield enemi cpp funcinpec loggerhead sinc cpp narrowli parliamentari elect juli
-sent_93 | vote fail put end instabl follow last year coup
-sent_94 | cpp fell short two-third major need form govern alon
-sent_95 | ranariddh parti opposit alli sam rainsi held back support claim cpp due fraud intimid
-sent_96 | opposit organ protest phnom penh seek hun sen ouster violent dispers
-sent_97 | sam rainsi investig phnom penh court role demonstr remain abroad
-sent_98 | 15 seat 122-seat assembl irrelev form work govern
-sent_99 | king norodom sihanouk tuesday prais agreement cambodia top two polit parti   previous bitter rival   form coalit govern led strongman hun sen
-sent_100 | short letter sent news agenc king said receiv copi cooper agreement sign monday place hun sen cambodian peopl parti firm control fiscal administr function govern
-sent_101 | protocol cooper cpp funcinpec certainli bring peac progress nation peopl sihanouk wrote
-sent_102 | uncompromis enemi month ago hun sen funcinpec presid princ norodom ranariddh agre nov 13 form govern summit conven sihanouk
-sent_103 | deal make hun sen prime minist ranariddh presid nation assembl end three month polit deadlock follow juli elect narrowli hun sen key agreement format senat upper hous parliament led cpp presid chea sim outgo head nation assembl
-sent_104 | sihanouk recal procedur use past govern suggest tuesday appoint first two member upper hous
-sent_105 | remain senat said select method agre upon new govern nation assembl
-sent_106 | hun sen said monday cpp funcinpec agre senat would half larg 122-seat nation assembl
-sent_107 | detail senat includ much power given promulg legisl yet iron two parti
-sent_108 | king norodom sihanouk declin request chair summit cambodia top polit leader say meet would bring progress deadlock negoti form govern
-sent_109 | cambodian leader hun sen rule parti two-parti opposit call monarch lead top-level talk disagre locat
-sent_110 | papa presid summit meet three parti whether held phnom penh beij meet certainli achiev result sihanouk wrote oct 17 letter son princ norodom ranariddh leader senior opposit funcinpec parti
-sent_111 | copi letter obtain thursday
-sent_112 | king call three parti make compromis end stalem papa would like ask three parti take respons nation peopl
-sent_113 | hun sen use thursday anniversari peac agreement end countri civil war pressur opposit form coalit govern parti
-sent_114 | want prolong anarchi instabl prevent effort set new govern hun sen said televis speech mark anniversari 1991 pari peac accord
-sent_115 | hun sen parti 64 122 seat parliament juli nation elect two-third major necessari form govern
-sent_116 | opposit parti led ranariddh former financ minist sam ram rainsi refus enter coalit hun sen alleg elect fraud thoroughli investig
-sent_117 | intern monitor said elect rel free fair
-sent_118 | hun sen said current govern would remain power long opposit refus form new one
-sent_119 | ranariddh sam rainsi remain outsid countri sinc sept 24 ceremoni conven parliament
-sent_120 | cite hun sen threat arrest opposit politician follow two alleg attempt life ranariddh sam rainsi said feel safe negoti insid countri ask king chair summit resid beij
-sent_121 | hun sen reject opposit reserv say would inappropri hold summit outsid countri
-sent_122 | negoti far prove fruitless except open parliament sept 22 summit led king
-sent_123 | hun sen impli thursday opposit fail follow promis made summit
-sent_124 | result strictli respect seem reason hold anoth summit hun sen said speech anniversari 1991 pari peac accord
-sent_125 | sihanouk reportedli set fli beij next month receiv medic treatment chines doctor
-sent_126 | 75-year-old monarch suffer varieti ailment period make extend trip beij
-sent_127 | diagnos colon cancer 1993 sinc gone remiss
-sent_128 | septemb thousand peopl fill street phnom penh protest alleg elect fraud
-sent_129 | hun sen order polic break demonstr
-sent_130 | least four demonstr kill polic discoveri 20 bodi aftermath prompt specul death talli could much higher
-sent_131 | speech hun sen blame violenc opposit leader say demonstr instig social econom chao
-sent_132 | cambodian politician express hope monday new partnership parti strongman hun sen rival princ norodom ranariddh coalit govern would end violenc
-sent_133 | hun sen ranariddh co-prim minist coalit form 1993 landmark u n sponsor elect often clash power-shar integr guerrilla fighter crumbl khmer roug
-sent_134 | argument turn bloodi last year hun sen oust ranariddh coup
-sent_135 | princ fled cambodia return month elect juli
-sent_136 | hun sen cambodian peopl parti narrowli poll strong second-plac finish ranariddh funcinpec gave royalist parti leverag post-elect negoti
-sent_137 | three-month impass agre last week coalit deal make hun sen sole prime minist ranariddh presid nation assembl
-sent_138 | repetit 1993 two prime minist said hun sen aid prak sokhon attend last week summit
-sent_139 | two prime minist everyth move slowli decis made polit technic
-sent_140 | ranariddh said saturday two parti agre keep ministri interior defens co-minist
-sent_141 | senior funcinpec offici ahmad yahya reveal monday also agre cpp would control foreign affair financ portfolio
-sent_142 | funcinpec take justic inform
-sent_143 | parti form work group week divid remain govern post draft constitut amend form new senat
-sent_144 | hun sen ranariddh schedul meet nov 23   two day parliament reopen   review result work group give final approv ahmad yahya said
-sent_145 | abil repair relationship work togeth key stabl coalit
-sent_146 | consid remarriag ahmad yahya said
-sent_147 | care way work say
-sent_148 | compromis achiev result
-sent_149 | ranariddh alli sam rainsi whose parti place distant third elect left last week deal
-sent_150 | sam rainsi virul critic hun sen parti 14 member parliament remain outsid cambodia sinc septemb amid fear secur
-sent_151 | letter king norodom sihanouk releas monday sam rainsi complain hun sen respond queri secur make unsaf peopl return reconven parliament
-sent_152 | sam rainsi said told ranariddh parti former khmer roug guerrilla implic hun sen rocket attack sept 24 open parliament
-sent_153 | author call assassin attempt hun sen polic gener investig attack said monday like suspect identifi would reveal name polit affili
-sent_154 | worri parti colleagu still face arrest polit opposit leader sam rainsi sought clarif friday secur guarante promis strongman hun sen sam rainsi wrote letter king norodom sihanouk eager attend first session new nation assembl nov 25 complain hun sen assur strong enough eas concern parti member may arrest upon return cambodia
-sent_155 | hun sen announc govern guarante wednesday politician safeti right conduct polit activ accord law forc
-sent_156 | sam rainsi earlier call hun sen statement full loophol ask sihanouk help obtain promis hun sen member sam rainsi parti free prosecut polit activ last juli elect
-sent_157 | sam rainsi staunch critic hun sen forc take refug u n offic septemb avoid arrest hun sen accus behind plot life
-sent_158 | alleg assassin attempt came massiv street demonstr organ opposit hun sen cambodian peopl parti narrowli elect
-sent_159 | opposit alleg widespread fraud intimid refus accept result poll
-sent_160 | fear safeti sam rainsi then-al princ norodom ranariddh led exodu opposit lawmak cambodia parliament ceremoni open late septemb
-sent_161 | ranariddh whose funcinpec parti finish close second elect return last week struck deal hun sen form coalit govern
-sent_162 | agreement make hun sen prime minist ranariddh presid nation assembl
-sent_163 | two parti form three work group hammer detail agreement includ establish senat upper hous parliament
-sent_164 | sok repres hun sen parti said friday one work group complet work joint polit platform implement new govern
-sent_165 | platform said emphas administr econom judici reform sok would reveal detail say hun sen would announc present cabinet choic nation assembl
-sent_166 | cambodian leader hun sen friday reject opposit parti demand talk outsid countri accus tri internation polit crisi
-sent_167 | govern opposit parti ask king norodom sihanouk host summit meet seri post-elect negoti two opposit group hun sen parti form new govern fail
-sent_168 | opposit leader princ norodom ranariddh sam rainsi cite hun sen threat arrest opposit figur two alleg attempt life said could negoti freeli cambodia call talk sihanouk resid beij
-sent_169 | hun sen howev reject
-sent_170 | would like make clear meet relat cambodian affair must conduct kingdom cambodia hun sen told report cabinet meet friday
-sent_171 | no-on internation cambodian affair
-sent_172 | detriment sovereignti cambodia said
-sent_173 | hun sen cambodian peopl parti 64 122 parliamentari seat juli elect short two-third major need form govern
-sent_174 | ranariddh sam rainsi charg hun sen victori elect achiev widespread fraud
-sent_175 | demand thorough investig elect complaint precondit cooper get nation assembl move new govern form
-sent_176 | hun sen said friday opposit concern safeti countri excus stay abroad
-sent_177 | ranariddh sam rainsi outsid countri sinc parliament ceremoni open sep 24
-sent_178 | sam rainsi number opposit figur court investig grenad attack hun sen phnom penh resid sep 7
-sent_179 | hun sen home time attack follow polic crackdown demonstr contest hun sen elect victori
-sent_180 | sam rainsi parti statement releas friday accus hun sen unwil make compromis negoti break deadlock
-sent_181 | meet outsid cambodia suggest opposit could place parti equal foot said statement
-sent_182 | rule parti refus negoti unless abl threaten negoti partner arrest wors
+title   | explos rock royal marin school music southeastern coastal town today caus one build collaps kill eight peopl offici said
+sent_01 | thirti peopl injur 18 miss fear trap rubbl
+sent_02 | blast occur 8 26 loung barrack near deal 70 mile southeast london defens ministri said
+sent_03 | build collaps said ministri spokesman speak anonym keep british custom
+sent_04 | weve idea caus blast moment
+sent_05 | earli tell
+sent_06 | scotland yard said forens team anti-terrorist squad call help investig
+sent_07 | firefight use heavi lift equip thermal camera search trap debri said kent fire brigad spokesman kevin simmon
+sent_08 | kent polic said 17 18 peopl trap
+sent_09 | defens ministri said seven miss
+sent_010 | ten doctor gave emerg treatment scene 11 ambul took injur two hospit ambul servic said
+sent_11 | suffer flash burn head arm fractur sort injuri would expect explos said spokesman buckland hospit dover 20 mile south deal
+sent_12 | south eastern british ga sent investig scene said noth indic explos caus ga leak
+sent_13 | ga suppli barrack cut precautionari measur spokesman said
+sent_14 | guy platt own bookstor deal locat 20 mile north english channel port dover said heard massiv explos
+sent_15 | 
+sent_16 | dozen ambul polic fire brigad make way
+sent_17 | militari target british mainland attack sever time irish republican armi past year part campaign rid northern ireland british rule
+sent_18 | one soldier kill nine wound ira attack armi barrack north london august 1988
+sent_19 | 60 soldier narrowli escap death injuri februari evacu barrack shropshir western england bomb explod
+sent_20 | juli 1982 eight soldier die ira bomb near household cavalri barrack knightsbridg central london bandstand capit regent park armi band play
+sent_21 | three peopl die later total 51 injur bomb
+sent_22 | neighbor breakfast head work asleep bed explos militari barrack turn home rubbl confront sight bodi carri away
+sent_23 | terrif crash remind blitz
+sent_24 | ceil start fall around said joan betteridg pension southern england town deal blast royal marin school music occur
+sent_25 | irish republican armi claim reponsibilti explos polic said kill 11 peopl injur 22
+sent_26 | nearbi resid sean minnock said asleep woke hell jolt bedroom ceil fell
+sent_27 | woke find huge slab plaster bed floor
+sent_28 | wreck smoke-cloud barrack could hear terrifi scream agoni
+sent_29 | peopl start rush place
+sent_30 | horribl watch listen said minnock 28
+sent_31 | knew peopl serious hurt
+sent_32 | saw rescuer pull two bodi
+sent_33 | knew dead put floor put bed blanket right
+sent_34 | minnock wife janet said roof hous torn back window shatter
+sent_35 | hous blown bit said
+sent_36 | mr minnock feed 2-year-old son thoma breakfast explos wreck four terrac hous street back onto barrack
+sent_37 | next-door neighbor heather hackett 26 stand kitchen window face barrack hold 4-month-old son luke arm
+sent_38 | boy ben 3 joshua 2 side
+sent_39 | look sink saw whole build explod said
+sent_40 | told boy run joshua turn sliver glass embed back
+sent_41 | whole window blown across kitchen
+sent_42 | scream ran room
+sent_43 | bang loud thought whole hous come
+sent_44 | first thought sure joshua serious injur
+sent_45 | blood come back
+sent_46 | doctor remov glass sent home
+sent_47 | colleg student simon mitford 17 narrowli escap injur explos got earlier usual
+sent_48 | room complet wreck blast brother alex said
+sent_49 | barrack said heard music play went bang glass everywher
+sent_50 | two-stori build 90 percent rubbl
+sent_51 | heard marin scream band
+sent_52 | scare go second explos
+sent_53 | explos today flatten militari barrack tore nearbi home kill 11 peopl injur 22 polic said
+sent_54 | ira claim respons blast
+sent_55 | 100 rescu worker frantic dug rubbl three-stori build collaps royal marin school music near deal
+sent_56 | stun neighbor gather outsid home damag destroy
+sent_57 | chief polic inspector alan butterfield kent provid casualti figur coordin rescu effort first report one person miss later said everyon account
+sent_58 | said mani injur serious hurt
+sent_59 | terrif crash remind blitz
+sent_60 | ceil start fall around said pension joan betteridg
+sent_61 | defens secretari tom king inspect wreckag said yet absolut confirm bomb evid quit clearli ira atroc
+sent_62 | british militari instal frequent bomb target irish republican armi campaign rid northern ireland british rule today explos coastal town 70 mile southeast london worst ira attack british mainland seven year
+sent_63 | explos occur 8 26 loung barrack
+sent_64 | one band stop play parad ground said ministri spokesman speak anonym keep british custom
+sent_65 | dozen home near school damag includ four destroy
+sent_66 | wit report hear explos two mile away
+sent_67 | defens ministri would say mani servicemen civilian includ casualti figur
+sent_68 | howev king told report attack direct unarm bandsmen
+sent_69 | firefight use heavi lift equip thermal camera search debri said kent fire brigad spokesman kevin simmon
+sent_70 | ten doctor give emerg treatment scene 11 ambul take injur two hospit ambul servic said
+sent_71 | statement telephon ireland intern dublin news agenc said visit royal marin kent respons prime minist margaret thatcher visit northern ireland nine day ago
+sent_72 | ira said mr thatcher went british provinc messag war still want peac want british govern leav countri
+sent_73 | sign p oneil nom de guerr ira usual use claim respons action outsid northern ireland
+sent_74 | irish prime minist charl haughey issu statement dublin condemn attack call outrag
+sent_75 | last ira bomb attempt british mainland februari 60 soldier evacu barrack shropshir western england bomb explod
+sent_76 | one soldier kill nine wound ira bomb attack armi barrack north london august 1988
+sent_77 | juli 1982 eight soldier die ira bomb near household cavalri barrack central london bandstand capit regent park armi band play
+sent_78 | three peopl die later total 51 injur bomb
+sent_79 | music school train center young recruit want play seven royal marin band
+sent_80 | 250 young men 16 20 base school receiv militari music train
+sent_81 | roof janet minnock hous torn forc blast back window shatter
+sent_82 | hous blown bit said
+sent_83 | shaken
+sent_84 | mr minnock next-door neighbor heather hackett said stand kitchen window face barrack time explos
+sent_85 | hold 4-month-old son luke arm boy ben 3 joshua 2 side
+sent_86 | look sink saw whole build explod said
+sent_87 | told boy run joshua turn slither glass embed back
+sent_88 | whole window blown across kitchen
+sent_89 | scream ran room
+sent_90 | bang loud thought whole hous come
+sent_91 | sean minnock said asleep woke hell jolt
+sent_92 | worker tri patch hole roof said bedroom ceil fell
+sent_93 | woke find huge slab plaster bed floor
+sent_94 | wonder
+sent_95 | soon got look left window knew barrack
+sent_96 | ira bomb kill 10 men blew apart build royal marin music school outrag briton stir recrimin safeti standard school
+sent_97 | huge explos barrack staff room friday morn level three-stori build bandsmen took coffe break practic session school parad ground
+sent_98 | twelv 22 peopl injur hospit eight seriou condit polic said
+sent_99 | said nine dead bandsmen one man immedi identifi
+sent_100 | dozen neighbor home quiet southeastern english seasid town deal damag
+sent_101 | although traine school rang age 16 20 col john ware princip director music said slain bandsmen train adult musician
+sent_102 | held militari rank none train fight soldier
+sent_103 | outlaw irish republican armi engag 20-year-old campaign drive british provinc northern ireland claim respons telephon call ireland intern dublin news agenc
+sent_104 | resid area adjoin marin school said friday despit govern call stepped-up public alert terrorist secur school eas notic
+sent_105 | anyon deal tell easi get base said fred verg 70-year-old armi veteran
+sent_106 | local peopl laid wreath bouquet flower entranc barrack
+sent_107 | great sens anger commun kent polic chief constabl paul condon said
+sent_108 | royal marin music school one 30 militari establish britain use privat secur firm defens ministri figur show
+sent_109 | unidentifi defens sourc quot time newspap today said civilian guard back arm marin patrol regularli insid perimet
+sent_110 | defens secretari tom king promis secur review said new measur alreadi taken base
+sent_111 | elabor
+sent_112 | martin oneil opposit labor parti spokesman defens said friday seriou question must ask penny-pinch polici ministri defens may well put arm servic dread risk
+sent_113 | oneil later told british broadcast corp televis ira prepar take anybodi
+sent_114 | cowardli natur attack everi militari establish threat
+sent_115 | said privat secur firm assign area consid low risk attack
+sent_116 | design place low-risk categori like attack given way ira forc oper oneil ad
+sent_117 | big prize longer avail theyr pick one regard
+sent_118 | vulner
+sent_119 | prime minist margaret thatcher receiv news bomb aboard jet siberia en rout japan moscow
+sent_120 | call deepli seriou outrag
+sent_121 | king visit scene soon explos
+sent_122 | know peopl commit godfath sent actual know heart go make differ kill sake kill said
+sent_123 | defens minist anger clearli written face said rather erod secur forc attack redoubl determin ensur terror win
+sent_124 | prime minist charl haughey ireland condemn attack sent mr thatcher messag sympathi outrag caus sever tragic loss life mani injuri
+sent_125 | mainli roman cathol ira claim gave detail oper said respons messag war deliv mr thatcher visit northern ireland nine day ago
+sent_126 | appar refer speech prais local recruit ulster defens regiment brave group men lost 179 member ira attack sinc 1970
+sent_127 | mainli protest udr regard mani cathol sectarian forc present cloud alleg recruit leak name address photo ira suspect protest assassin
+sent_128 | british militari instal frequent target ira campaign
+sent_129 | friday attack worst sinc juli 1982 11 servicemen fatal wound two bomb central london
+sent_130 | music school train young recruit seven royal marin band
+sent_131 | 250 young men age 16 20 undergo militari music train work older profession bandsmen
+sent_132 | famili member saturday griev slain love one critic secur arrang royal marin music school ira terrorist attack kill 10 militari musician
+sent_133 | jean cleathero whose son andrew kill join local resid opposit politician denounc use privat secur firm protect music school 29 militari establish britain
+sent_134 | secur barrack absolut abysm
+sent_135 | seen
+sent_136 | alway said easi would anyon get could ordinari secur men stop terrorist
+sent_137 | said
+sent_138 | british militari instal frequent target ira campaign end british rule northern ireland unit predominantli protest provinc mainli roman cathol republ ireland
+sent_139 | friday attack worst sinc juli 1982 11 servicemen fatal wound bomb central london
+sent_140 | shock resid deal gather outsid barrack lay flower tribut young men call bandi
+sent_141 | 11-year-old royal marin cadet full dress uniform march barrack smartli salut royal marin sign
+sent_142 | im proud uniform im proud marin knew
+sent_143 | hate peopl said scott robert
+sent_144 | archbishop canterburi robert runci spiritu leader church england visit injur said impress strength determin evil defeat
+sent_145 | runci said one men main concern hand would heal properli could continu play music instrument
+sent_146 | polic investig attack search nearbi hous rent briefli three men irish accent
+sent_147 | know men arriv left cmdr
+sent_148 | georg churchill-coleman head scotland yard anti-terrorist squad said news confer
+sent_149 | appear men left sever day explos
+sent_150 | said hous overlook barrack recreat center destroy friday morn blast rent english owner three men two three week
+sent_151 | proof hous ira hideout command said
+sent_152 | virtu fact hous near base men irish anxiou talk said
+sent_153 | explos expert wear white protect overal painstakingli examin hous saturday churchill-coleman said would continu next two three day
+sent_154 | polic said 10 men kill coffe break morn band practic servicemen
+sent_155 | 22 men injur 12 remain hospit saturday five seriou condit
+sent_156 | irish republican armi friday claim respons explos also sever damag sever nearbi hous
+sent_157 | polic determin caus blast churchill-coleman said would seem form improvis devic use high explos
+sent_158 | ira specifi caus blast
+sent_159 | princ philip sunday condemn senseless kill 10 royal marin musician ira bomb britain defens secretari said warn militari base risk similar attack
+sent_160 | clergyman urg rel friend dead maim musician forgiv bomber
+sent_161 | forgiv break tie hater hate rev
+sent_162 | georg ling told mourner
+sent_163 | princ husband queen elizabeth ii captain gener royal marin visit injur men hospit tour sever damag royal marin school music deal southeast britain
+sent_164 | help ira win anyth said philip wore royal marin tie
+sent_165 | senseless
+sent_166 | one simpli wonder sort mental even contempl meaningless act
+sent_167 | appal
+sent_168 | paid tribut 12 injur men five critic wound
+sent_169 | princ accompani viscountess mountbatten daughter lord mountbatten kill ira bomb boat 1979
+sent_170 | mountbatten india last viceroy cousin queen
+sent_171 | british militari instal frequent target irish republican armi campaign end british rule northern ireland unit predominantli protest provinc roman cathol republ ireland
+sent_172 | defens secretari tom king said sunday issu alert militari instal prevent attack
+sent_173 | would give detail
+sent_174 | perpetr latest outrag larg risk attack king said
+sent_175 | take number step
+sent_176 | king defend use privat secur firm hire guard deal school 29 low-risk militari instal britain
+sent_177 | local resid griev rel said secur lax turn back marin
+sent_178 | king said privat firm remain
+sent_179 | import rememb need case eye ear observ king said british broadcast corp radio
+sent_180 | privat secur guard use addit assist
+sent_181 | also help reduc amount time soldier spend enjoy part activ
+sent_182 | church servic throughout small port clergymen urg mourner pray forgiv bomber
+sent_183 | rev
+sent_184 | charl howard royal navi chaplain ask 300-member congreg insid barrack find room heart pray men perpetr terribl act god soften heart turn violent evil way
+sent_185 | mani cri howard read aloud name 10 servicemen kill coffe break band practic
+sent_186 | worst ira attack british mainland sinc juli 1982
+sent_187 | nearbi st georg church formerli royal marin church ling said one say forgiv easi one say terrorist deserv forgiv
+sent_188 | forgiv
+sent_189 | prime minist margaret thatcher said monday irish republican armi member blew royal marin school music kill 10 bandsmen last week monster found punish
+sent_190 | young men lost murder common murder must found brought justic put behind bar long time said follow tour school wreck barrack deal southeast england
+sent_191 | lost 10 remark musician fight men peopl tri bomb other democrat view said
+sent_192 | evil peopl absolut monster
+sent_193 | gerri adam presid sinn fein legal polit arm ira issu statement disput mr thatcher remark say know heart heart real natur conflict caus remedi
+sent_194 | ira fight end british rule northern ireland unit predominantli protest provinc roman cathol republ ireland
+sent_195 | want end violent death aris present relationship two countri adam said
+sent_196 | want new peac relationship base accept respect right sovereign nation
+sent_197 | visit 11 injur bandsmen still hospit mr thatcher pledg hunt bomber pursu possibl speed vigor dedic
+sent_198 | raymond kendal secretary-gener intern polic organ interpol pledg organ full support hunt blew school
+sent_199 | hope part play find said kendal open intern polic exhibit confer london
+sent_200 | crimin worst sort dealt
+sent_201 | land deal mr thatcher helicopt flew rubbl band recreat center
+sent_202 | ira claim respons explos polic said look three men irish accent rent hous overlook barrack
